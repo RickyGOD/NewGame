@@ -1,0 +1,1571 @@
+﻿Log file open, 04/23/20 18:17:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SMU_2ST
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.107711
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.23-09.17.33:677][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.23-09.17.33:677][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.23-09.17.33:677][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:677][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.23-09.17.33:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:678][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-09.17.33:681][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-09.17.33:682][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-09.17.33:682][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-09.17.33:682][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.23-09.17.33:686][  0]LogHAL: Display: Platform has ~ 16 GB [16803356672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.23-09.17.33:686][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.23-09.17.33:686][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-09.17.33:686][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-09.17.33:687][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-09.17.33:688][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.23-09.17.33:688][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.23-09.17.33:688][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.23-09.17.33:688][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-09.17.33:688][  0]LogInit: Computer: DESKTOP-ASECSU4
+[2020.04.23-09.17.33:688][  0]LogInit: User: hhy
+[2020.04.23-09.17.33:688][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.23-09.17.33:688][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.23-09.17.33:688][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2020.04.23-09.17.33:688][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.23-09.17.33:688][  0]LogMemory: Process Physical Memory: 101.11 MB used, 101.11 MB peak
+[2020.04.23-09.17.33:688][  0]LogMemory: Process Virtual Memory: 91.03 MB used, 91.03 MB peak
+[2020.04.23-09.17.33:688][  0]LogMemory: Physical Memory: 5170.13 MB used,  10854.80 MB free, 16024.93 MB total
+[2020.04.23-09.17.33:688][  0]LogMemory: Virtual Memory: 4659.09 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.04.23-09.17.33:693][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.23-09.17.33:722][  0]LogInit: Using OS detected language (zh-CN).
+[2020.04.23-09.17.33:722][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.04.23-09.17.33:724][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.04.23-09.17.33:780][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.04.23-09.17.33:780][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.04.23-09.17.33:780][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.04.23-09.17.33:780][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.04.23-09.17.33:781][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.04.23-09.17.33:781][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.04.23-09.17.33:781][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.04.23-09.17.33:781][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.04.23-09.17.33:782][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.04.23-09.17.33:782][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.04.23-09.17.33:782][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.04.23-09.17.33:813][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.23-09.17.33:857][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.23-09.17.33:857][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.23-09.17.34:188][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.23-09.17.34:188][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.23-09.17.34:261][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.04.23-09.17.34:261][  0]LogD3D11RHI:       4018/0/8012 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.23-09.17.34:297][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.04.23-09.17.34:297][  0]LogD3D11RHI:       128/0/8012 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.23-09.17.34:300][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.23-09.17.34:300][  0]LogD3D11RHI:       0/0/8012 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.23-09.17.34:300][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.23-09.17.34:336][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.23-09.17.34:336][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.04.23-09.17.34:336][  0]LogWindows: EnumDisplayDevices:
+[2020.04.23-09.17.34:337][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.04.23-09.17.34:338][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.23-09.17.34:338][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.23-09.17.34:339][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.04.23-09.17.34:340][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.23-09.17.34:340][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.04.23-09.17.34:340][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2020.04.23-09.17.34:340][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2020.04.23-09.17.34:340][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.04.23-09.17.34:383][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.23-09.17.34:401][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.23-09.17.34:856][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.23-09.17.34:865][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.23-09.17.34:875][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.23-09.17.34:886][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.23-09.17.34:898][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.23-09.17.34:909][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.23-09.17.34:920][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.23-09.17.34:931][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.23-09.17.34:937][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.23-09.17.34:974][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.23-09.17.34:977][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.23-09.17.35:000][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.23-09.17.35:000][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.23-09.17.35:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.23-09.17.35:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.23-09.17.35:026][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.23-09.17.35:035][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.23-09.17.35:043][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.23-09.17.35:053][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.23-09.17.35:083][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.23-09.17.35:083][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.23-09.17.35:083][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.23-09.17.35:097][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.23-09.17.35:182][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Intermediate/Shaders/WorkingDirectory/20436/).
+[2020.04.23-09.17.35:182][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hhy/AppData/Local/Temp/UnrealShaderWorkingDir/3ED61DD6451D862B9097979012914997/'.
+[2020.04.23-09.17.35:186][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.23-09.17.35:186][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.23-09.17.35:186][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.23-09.17.35:870][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/hhy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hhy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-09.17.35:920][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.23-09.17.35:932][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.23-09.17.35:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-09.17.35:932][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.23-09.17.35:934][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hhy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.23-09.17.35:934][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.23-09.17.35:934][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.23-09.17.35:957][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.23-09.17.35:960][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.23-09.17.35:961][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.23-09.17.36:039][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.04.23-09.17.36:327][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-09.17.36:505][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.23-09.17.36:505][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.23-09.17.36:505][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.23-09.17.36:505][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.23-09.17.36:505][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.23-09.17.36:515][  0]LogNetVersion: SMU_2ST 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 139875205)
+[2020.04.23-09.17.37:030][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.080471 seconds
+[2020.04.23-09.17.37:036][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.23-09.17.37:036][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.23-09.17.37:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.23-09.17.38:214][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.23-09.17.38:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.23-09.17.38:299][  0]SourceControl: 源码管理已禁用
+[2020.04.23-09.17.39:102][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.23-09.17.39:306][  0]LogOcInput: OculusInput pre-init called
+[2020.04.23-09.17.39:318][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.23-09.17.39:318][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.23-09.17.39:396][  0]LogEngine: Initializing Engine...
+[2020.04.23-09.17.39:397][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.23-09.17.39:398][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.23-09.17.39:634][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.23-09.17.39:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.23-09.17.39:668][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.23-09.17.40:984][  0]LogInit: FAudioDevice initialized.
+[2020.04.23-09.17.40:985][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.23-09.17.41:134][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/hhy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-09.17.41:139][  0]LogInit: Texture streaming: Enabled
+[2020.04.23-09.17.41:168][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.23-09.17.41:168][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.23-09.17.41:170][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.23-09.17.41:229][  0]LogInit: Transaction tracking system initialized
+[2020.04.23-09.17.41:272][  0]BlueprintLog: New page: 编辑器加载
+[2020.04.23-09.17.41:394][  0]LocalizationService: 本地化服务已禁用
+[2020.04.23-09.17.41:714][  0]LogFileCache: Scanning file cache for directory 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/' took 0.02s
+[2020.04.23-09.17.41:714][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.23-09.17.41:714][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.23-09.17.41:970][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-09.17.41:970][  0]LightingResults: New page: 光照构建
+[2020.04.23-09.17.41:974][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.17.41:974][  0]MapCheck: New page: 地图检测
+[2020.04.23-09.17.41:974][  0]LightingResults: New page: 光照构建
+[2020.04.23-09.17.41:999][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.23-09.17.42:100][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.23-09.17.42:106][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-09.17.42:131][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.23-09.17.42:131][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-09.17.42:131][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.084毫秒。
+[2020.04.23-09.17.42:131][  0]LogFileHelpers: Loading map 'Template_Default' took 0.162
+[2020.04.23-09.17.42:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.17.42:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.17.42:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.17.42:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.17.42:321][  0]LogCollectionManager: Loaded 0 collections in 0.003703 seconds
+[2020.04.23-09.17.42:331][  0]LogFileCache: Scanning file cache for directory 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Collections/' took 0.00s
+[2020.04.23-09.17.42:331][  0]LogFileCache: Scanning file cache for directory 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Developers/hhy/Collections/' took 0.00s
+[2020.04.23-09.17.42:331][  0]LogFileCache: Scanning file cache for directory 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Collections/' took 0.00s
+[2020.04.23-09.17.42:331][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.04.23-09.17.42:346][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2863 classes and 680 folders.
+[2020.04.23-09.17.42:357][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.23-09.17.42:450][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.23-09.17.42:458][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.23-09.17.42:509][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.23-09.17.42:511][  0]LogSlate: Took 0.001955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.23-09.17.42:512][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.23-09.17.42:518][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.23-09.17.42:604][  0]LogRenderer: Reallocating scene render targets to support 900x436 Format 10 NumSamples 1 (Frame:1).
+[2020.04.23-09.17.42:721][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.23-09.17.42:721][  0]LogLoad: (Engine Initialization) Total time: 11.65 seconds
+[2020.04.23-09.17.42:721][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.23-09.17.42:794][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.23-09.17.42:817][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-09.17.42:826][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/' took 0.08s
+[2020.04.23-09.17.42:861][  1]LogAssetRegistry: Asset discovery search completed in 6.8224 seconds
+[2020.04.23-09.17.42:865][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.04.23-09.17.42:865][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2020.04.23-09.17.46:297][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.17.47:424][271]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-09.17.47:609][271]LogAIModule: Creating AISystem for world MAP
+[2020.04.23-09.17.47:647][271]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MAP.MAP
+[2020.04.23-09.17.47:671][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.04.23-09.17.47:672][271]Cmd: MAP LOAD FILE="D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-09.17.47:672][271]LightingResults: New page: 光照构建
+[2020.04.23-09.17.47:673][271]LoadErrors: New page: 正在加载地图：MAP.umap
+[2020.04.23-09.17.47:679][271]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.17.47:679][271]MapCheck: New page: 地图检测
+[2020.04.23-09.17.47:679][271]LightingResults: New page: 光照构建
+[2020.04.23-09.17.47:703][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.04.23-09.17.47:823][271]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-09.17.47:849][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.23-09.17.47:882][271]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-09.17.47:882][271]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.063毫秒。
+[2020.04.23-09.17.47:882][271]LogFileHelpers: Loading map 'MAP' took 0.212
+[2020.04.23-09.18.42:753][556]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F1EE26EB-4B52-C89C-C0ED-53ACF3B0A0B1}
+[2020.04.23-09.21.52:748][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.22.19:184][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.22.19:513][506]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2020.04.23-09.22.20:385][542]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2020.04.23-09.22.20:732][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.22.20:761][560]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.22.21:388][596]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.26:425][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.22.29:378][ 55]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.29:893][ 55]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.31:088][124]Cmd: TRANSACTION UNDO
+[2020.04.23-09.22.31:088][124]LogEditorTransaction: Undo 移动Actor
+[2020.04.23-09.22.34:497][226]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.34:715][236]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.34:772][238]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.22.35:081][256]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.43:575][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.22.45:798][884]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.47:460][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.22.50:289][140]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.22.51:698][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.22.53:480][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.22.57:413][495]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.00:277][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.23.02:196][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.23.05:817][977]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.12:245][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.23.13:608][427]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.13:866][440]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.17:310][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.23.17:341][637]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.23.20:142][800]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.21:271][865]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.22:616][944]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.22:656][945]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.23.23:849][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.23-09.23.31:611][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.23.33:091][540]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.04.23-09.23.34:332][613]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.55:735][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.23.55:945][877]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2020.04.23-09.23.57:116][947]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2020.04.23-09.23.57:161][948]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.23.58:304][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.23.59:566][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.24.05:469][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.24.05:774][445]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.24.08:873][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.24.09:944][678]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.24.10:503][678]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.24.11:012][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.24.12:098][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.24.18:758][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.24.29:352][744]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.24.35:844][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.24.37:613][228]Cmd: DELETE
+[2020.04.23-09.24.37:613][228]Cmd: ACTOR DELETE
+[2020.04.23-09.24.37:654][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.24.37:690][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.23-09.24.37:690][228]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.04.23-09.24.43:175][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.24.43:421][546]LogActorFactory: Actor Factory created SM_Stone_Small_Var03
+[2020.04.23-09.24.44:459][605]LogActorFactory: Actor Factory created SM_Stone_Small_Var03
+[2020.04.23-09.25.00:580][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.25.12:316][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.25.13:023][254]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.25.13:079][255]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.25.13:835][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.25.19:515][627]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.25.24:003][891]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.25.24:167][891]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.25.24:176][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP" FILE="D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.23-09.25.24:200][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.04.23-09.25.25:529][891]LogSavePackage: Moving 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/MAP2E457B9D499E1777F4198381108EA3D2.tmp' to 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap'
+[2020.04.23-09.25.33:272][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.25.33:441][292]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2020.04.23-09.25.34:161][335]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2020.04.23-09.25.35:451][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.25.41:734][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var05)
+[2020.04.23-09.25.42:805][847]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CC95A999-4B2E-33BB-B915-B2BDC96367B2}
+[2020.04.23-09.25.46:032][ 30]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.25.52:233][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var05)
+[2020.04.23-09.25.54:113][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.26.03:753][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.26.03:976][ 57]LogActorFactory: Actor Factory created SM_Stone_Big_Var02
+[2020.04.23-09.26.05:347][139]LogActorFactory: Actor Factory created SM_Stone_Big_Var02
+[2020.04.23-09.26.06:465][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.26.13:409][607]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.26.17:661][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.18:566][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.18:835][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.18:888][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.18:983][915]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.26.20:833][ 23]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.26.22:856][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.22:902][125]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.26.24:266][201]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.26.24:307][201]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.26.25:078][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.27:660][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.26.32:543][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.34:254][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.26.42:814][279]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3656CED3-434D-A592-F98C-00A868514610}
+[2020.04.23-09.27.25:059][810]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.27.35:609][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.27.35:846][440]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2020.04.23-09.27.36:287][463]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2020.04.23-09.27.38:037][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.27.42:818][852]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={66748259-4C65-5883-17D1-F480F44631FB}
+[2020.04.23-09.27.46:735][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.27.48:605][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.27.48:648][182]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.27.54:522][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.27.58:505][728]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.28.16:175][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.28.18:336][888]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.29.33:414][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.29.33:576][371]LogActorFactory: Actor Factory created SM_Stone_Big_Var04
+[2020.04.23-09.29.34:127][402]LogActorFactory: Actor Factory created SM_Stone_Big_Var04
+[2020.04.23-09.29.35:168][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.29.44:242][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.29.54:678][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.29.54:964][547]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.01:267][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.02:776][  6]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.03:323][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.03:365][ 36]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.30.05:142][139]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.08:939][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.13:316][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.20:029][  2]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.23:495][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.23:546][197]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.30.26:208][343]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.30.26:377][351]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.30.26:683][366]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.34:471][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.30.34:778][816]LogActorFactory: Actor Factory created SM_Stone_Big_Var05
+[2020.04.23-09.30.35:555][858]LogActorFactory: Actor Factory created SM_Stone_Big_Var05
+[2020.04.23-09.30.36:598][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.30.42:637][259]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.30.43:214][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.30.43:270][290]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.30.44:021][332]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.30.44:972][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.30.57:059][996]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.31.00:479][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.01:778][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.31.08:930][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.31.12:742][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.15:005][986]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.31.18:708][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.21:065][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.21:123][333]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.31.24:337][522]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.31.31:260][924]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.31.32:565][999]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.31.37:189][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.44:216][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.44:787][706]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.31.51:740][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2020.04.23-09.31.55:209][308]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.38:583][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.32.40:973][ 21]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.42:526][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.32.45:737][283]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.47:000][356]Cmd: TRANSACTION UNDO
+[2020.04.23-09.32.47:000][356]LogEditorTransaction: Undo 点击Actor
+[2020.04.23-09.32.48:621][440]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.49:260][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.32.51:356][593]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.53:551][712]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.32.54:005][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.32.56:289][864]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.05:127][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.33.08:525][576]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.08:804][590]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.19:428][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.33.19:665][220]LogActorFactory: Actor Factory created SM_Stone_Medium_Var01
+[2020.04.23-09.33.20:170][245]LogActorFactory: Actor Factory created SM_Stone_Medium_Var01
+[2020.04.23-09.33.21:575][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.33.26:765][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.33.30:568][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.33.36:644][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.33.41:849][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.33.45:278][707]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.45:526][719]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.45:984][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.33.48:011][861]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.33.48:185][869]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.33.49:840][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.33.49:879][956]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.33.52:088][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.33.53:936][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.33.53:967][179]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.33.54:414][199]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.34.06:995][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.34.07:213][945]LogActorFactory: Actor Factory created SM_Stone_Medium_Var02
+[2020.04.23-09.34.07:654][967]LogActorFactory: Actor Factory created SM_Stone_Medium_Var02
+[2020.04.23-09.34.07:707][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.34.09:449][ 69]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.34.17:599][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.34.18:623][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.34.33:689][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.34.33:829][471]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.34.34:155][489]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.34.35:399][562]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.34.35:429][562]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.34.36:545][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.34.39:198][781]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.34.49:905][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.34.49:955][420]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.34.54:847][698]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.34.57:738][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.00:285][  0]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.35.12:356][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.12:398][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.35.15:822][909]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.35.15:868][910]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.17:391][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2020.04.23-09.35.18:478][ 59]Cmd: TRANSACTION UNDO
+[2020.04.23-09.35.18:478][ 59]LogEditorTransaction: Undo 点击Actor
+[2020.04.23-09.35.19:871][132]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.35.20:952][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.23:533][338]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.35.29:429][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.32:613][862]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.35.33:527][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var02)
+[2020.04.23-09.35.37:035][117]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.35.40:858][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.35.41:009][331]LogActorFactory: Actor Factory created SM_Stone_Medium_Var03
+[2020.04.23-09.35.41:663][369]LogActorFactory: Actor Factory created SM_Stone_Medium_Var03
+[2020.04.23-09.35.43:619][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.35.53:554][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.35.59:959][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.35.59:993][435]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.36.00:269][449]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.36.01:075][496]Cmd: TRANSACTION UNDO
+[2020.04.23-09.36.01:075][496]LogEditorTransaction: Undo 点击组件
+[2020.04.23-09.36.01:685][528]Cmd: TRANSACTION UNDO
+[2020.04.23-09.36.01:685][528]LogEditorTransaction: Undo 点击Actor
+[2020.04.23-09.36.04:488][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var03)
+[2020.04.23-09.36.04:520][645]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.36.04:634][649]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.36.05:146][677]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.36.08:098][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var03)
+[2020.04.23-09.36.10:897][999]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.36.10:959][  0]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.36.11:487][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var03)
+[2020.04.23-09.36.14:314][194]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.36.15:954][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var03)
+[2020.04.23-09.36.19:496][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var03)
+[2020.04.23-09.36.22:233][650]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.36.22:259][650]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.36.55:451][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.36.55:615][636]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2020.04.23-09.36.55:998][657]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2020.04.23-09.36.56:089][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var5)
+[2020.04.23-09.37.00:931][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.37.30:973][646]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.37.31:540][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var5)
+[2020.04.23-09.37.34:085][825]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.37.34:696][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var5)
+[2020.04.23-09.37.37:808][ 40]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.37.38:211][ 61]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.38.00:515][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.38.00:810][367]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2020.04.23-09.38.01:207][390]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2020.04.23-09.38.01:262][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.38.05:108][616]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.38.05:186][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.04.23-09.38.05:187][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP" FILE="D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Autosaves/Game/Maps/MAP_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.23-09.38.08:421][616]LogSavePackage: Moving 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/MAP_Auto17F6730324A4EFB11656893B8147C192C.tmp' to 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/Autosaves/Game/Maps/MAP_Auto1.umap'
+[2020.04.23-09.38.08:429][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP' took 3.281
+[2020.04.23-09.38.08:429][616]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.281
+[2020.04.23-09.38.10:240][690]LogSlate: Took 0.007056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.23-09.38.10:973][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.38.23:504][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.38.25:565][570]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.38.26:525][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.38.33:608][ 42]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.38.33:714][ 45]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.38.34:190][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2020.04.23-09.38.34:235][ 73]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.38.39:373][374]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.38.39:684][390]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.38.54:916][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.38.55:089][275]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2020.04.23-09.38.55:569][301]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2020.04.23-09.38.55:686][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.38.57:134][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.39.10:182][156]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.39.12:138][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.39.14:275][377]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.39.17:960][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.39.19:450][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.39.20:120][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var05)
+[2020.04.23-09.39.20:180][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.39.21:903][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.39.31:783][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.39.32:296][385]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.39.35:261][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.39.36:352][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.39.46:399][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.39.46:822][183]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.39.52:238][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.39.54:853][637]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.00:112][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.01:344][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.40.13:070][646]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.15:666][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.17:062][862]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.40.18:471][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.20:205][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.40.23:127][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.25:200][326]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.25:555][344]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.26:597][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.26:642][405]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.40.28:644][521]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.30:489][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.32:049][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.32:604][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.40.35:272][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.37:045][984]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.37:074][984]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.40.37:597][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.38:731][ 77]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.38:851][ 81]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.40.39:346][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.39:388][110]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.40.40:808][191]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.41:742][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var01)
+[2020.04.23-09.40.45:044][437]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.51:859][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.40.52:484][852]LogActorFactory: Actor Factory created SM_Stone_Small_Var02
+[2020.04.23-09.40.52:862][873]LogActorFactory: Actor Factory created SM_Stone_Small_Var02
+[2020.04.23-09.40.52:909][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.40.54:604][973]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.40.54:789][982]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.40.56:210][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.00:948][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.23-09.41.00:998][347]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.04.23-09.41.03:544][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.04:718][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.41.18:752][368]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.41.18:876][372]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.41.19:695][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.27:690][862]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.41.27:717][862]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.41.28:468][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.28:502][906]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.40:240][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.41.40:971][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.43:287][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.41.43:417][767]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.43:808][789]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.44:532][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.45:828][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.54:958][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.41.54:997][448]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.55:457][473]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.55:782][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.41.55:837][491]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.41.57:730][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.42.02:037][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.42.23:379][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.42.23:737][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.42.24:227][773]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.42.28:575][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.42.34:997][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.42.35:042][381]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.42.35:173][387]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.42.37:899][546]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.42.38:205][563]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.42.49:281][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.42.49:345][187]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var03.SM_Stone_Small_Var03
+[2020.04.23-09.42.51:027][247]LogSlate: Window 'SM_Stone_Small_Var03' being destroyed
+[2020.04.23-09.42.51:036][247]LogSlate: Window 'SM_Stone_Small_Var03' being destroyed
+[2020.04.23-09.42.51:053][247]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.42.52:250][303]LogActorFactory: Actor Factory created SM_Stone_Small_Var03
+[2020.04.23-09.42.52:687][329]LogActorFactory: Actor Factory created SM_Stone_Small_Var03
+[2020.04.23-09.42.53:383][369]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.42.53:809][392]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.42.56:723][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.09:976][330]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.43.10:002][330]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.43.13:010][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.14:039][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.43.31:514][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.38:365][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.43.38:431][953]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.43.38:729][969]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.43.40:411][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.46:295][405]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.43.49:222][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.49:257][570]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.43.56:811][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.43.56:842][997]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.43.58:383][ 86]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.43.58:421][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.43.59:400][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.59:532][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.43.59:610][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.44.02:639][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.44.04:714][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var4)
+[2020.04.23-09.44.05:490][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.44.14:741][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.44.16:272][ 44]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.44.19:808][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.44.20:640][275]LogActorFactory: Actor Factory created SM_Stone_Small_Var04
+[2020.04.23-09.44.21:081][301]LogActorFactory: Actor Factory created SM_Stone_Small_Var04
+[2020.04.23-09.44.22:947][410]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.44.25:383][548]Cmd: TRANSACTION UNDO
+[2020.04.23-09.44.25:383][548]LogEditorTransaction: Undo 点击Actor
+[2020.04.23-09.44.33:309][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.44.35:254][123]Cmd: TRANSACTION UNDO
+[2020.04.23-09.44.35:254][123]LogEditorTransaction: Undo 点击Actor
+[2020.04.23-09.44.37:395][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.44.37:919][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.44.40:751][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.44.58:821][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.44.59:743][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.44.59:790][546]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.00:311][575]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.03:986][791]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.04:294][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.45.06:809][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.45.08:460][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.45.08:523][ 42]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.08:639][ 47]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.08:941][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var02)
+[2020.04.23-09.45.13:968][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.45.15:377][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.45.17:112][534]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.45.22:530][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.45.23:494][884]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2020.04.23-09.45.24:134][917]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2020.04.23-09.45.24:212][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.45.26:083][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.45.34:482][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.45.37:033][685]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.04.23-09.45.37:613][717]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.04.23-09.45.38:113][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.45.38:498][766]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.04.23-09.45.42:377][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.45.48:456][330]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.45.49:052][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.45.49:096][363]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.45.50:879][466]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.45.51:515][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.45.54:831][693]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.45.55:507][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.45.56:830][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.46.00:158][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.00:207][991]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.01:608][ 70]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.02:296][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.03:728][189]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.04:456][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.05:716][301]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.06:252][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.06:296][330]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.07:664][408]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.08:215][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.10:991][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.46.12:587][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.12:620][689]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.15:013][823]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.16:277][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.46.16:313][897]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.16:865][928]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.17:346][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.46.17:384][954]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.20:760][153]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.46.24:052][348]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.46.48:221][768]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.46.48:364][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP" FILE="D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.23-09.46.48:392][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.23-09.46.49:781][768]LogSavePackage: Moving 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/MAPFC920A8E45B41F902D9FD59E51D7B987.tmp' to 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap'
+[2020.04.23-09.47.03:259][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.47.03:845][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.47.03:881][583]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.47.04:386][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var05)
+[2020.04.23-09.47.06:108][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.47.07:395][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.47.08:397][842]Cmd: EDIT COPY
+[2020.04.23-09.47.08:833][842]Cmd: EDIT PASTE
+[2020.04.23-09.47.12:830][ 68]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.23-09.47.12:879][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.47.13:653][113]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.47.13:741][113]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.47.14:054][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.14:095][129]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.47.18:234][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.47.18:959][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.19:533][447]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.47.19:561][447]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.47.22:398][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.23:090][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.23:973][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.24:263][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.47.24:856][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.25:416][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.26:297][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var6)
+[2020.04.23-09.47.26:902][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.28:096][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.28:138][928]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.47.28:603][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.47.29:364][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.30:078][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.30:121][ 38]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.47.30:918][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.47.31:499][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.34:031][264]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.47.49:371][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.47.54:293][463]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.47.58:193][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var01)
+[2020.04.23-09.47.59:949][780]Cmd: EDIT COPY
+[2020.04.23-09.48.00:199][795]Cmd: EDIT PASTE
+[2020.04.23-09.48.01:885][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var5)
+[2020.04.23-09.48.02:780][944]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.23-09.48.02:833][944]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.48.04:381][ 33]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.48.04:862][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2020.04.23-09.48.05:806][110]Cmd: EDIT COPY
+[2020.04.23-09.48.06:023][123]Cmd: EDIT PASTE
+[2020.04.23-09.48.06:954][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var5)
+[2020.04.23-09.48.07:000][177]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.07:559][208]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.48.08:330][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var5)
+[2020.04.23-09.48.09:061][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var2)
+[2020.04.23-09.48.09:100][291]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.10:003][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var5)
+[2020.04.23-09.48.15:431][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var5)
+[2020.04.23-09.48.15:474][655]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.15:990][684]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.18:222][815]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.18:267][816]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Medium_Var2)
+[2020.04.23-09.48.18:496][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var2)
+[2020.04.23-09.48.18:986][855]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.48.23:285][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.48.24:543][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.48.24:563][172]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.25:781][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var5)
+[2020.04.23-09.48.25:817][243]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.26:569][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.48.26:606][286]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.32:801][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.48.32:862][655]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.33:254][677]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.33:657][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.48.35:696][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2020.04.23-09.48.35:768][820]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.36:223][845]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.36:544][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2020.04.23-09.48.36:584][863]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.48.39:082][  9]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.48.39:117][  9]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.04.23-09.49.00:259][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.49.03:553][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.04:484][503]Cmd: EDIT COPY
+[2020.04.23-09.49.04:768][520]Cmd: EDIT PASTE
+[2020.04.23-09.49.08:105][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.08:127][716]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.13:049][  7]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.13:125][ 10]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.13:693][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.13:752][ 44]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.15:354][137]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.16:210][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.16:272][188]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.17:133][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.18:014][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.18:043][288]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.19:103][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.21:370][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.22:211][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.23:291][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.23:350][594]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.24:664][671]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.25:373][712]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.25:392][712]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.27:827][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.27:889][849]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.31:306][ 51]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.49.33:296][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.34:405][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.49.34:479][225]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.43:849][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.49.43:879][773]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.47:355][976]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.49.50:614][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.49.50:644][162]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.52:968][296]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.52:985][296]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.49.53:369][317]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.49.56:383][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.57:720][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.49.57:764][566]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.49.58:497][608]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.00:914][750]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.00:992][753]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.50.02:397][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.50.02:462][837]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.02:928][863]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.02:949][863]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var04)
+[2020.04.23-09.50.04:788][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.50.06:558][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.10:346][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.10:367][283]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.15:125][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.50.19:762][824]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.23:119][ 23]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.31:226][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.50.32:720][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.50.32:763][581]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.33:330][613]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.33:392][615]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.50.38:629][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2020.04.23-09.50.38:662][917]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.39:784][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var03)
+[2020.04.23-09.50.39:816][979]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.40:294][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.40:326][  6]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.51:197][641]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.51:240][642]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.51:708][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.53:276][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.53:296][760]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.55:922][914]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.50.55:963][915]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.50.58:393][ 50]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.51.00:829][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.51.04:909][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var5)
+[2020.04.23-09.51.04:965][425]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.23-09.51.08:632][637]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.23-09.51.27:887][786]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.51.28:035][786]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-09.51.28:043][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP" FILE="D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.23-09.51.28:069][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.04.23-09.51.29:355][786]LogSavePackage: Moving 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Saved/MAPC7462E2E44596B93B3DE6C9268AFB2BC.tmp' to 'D:/hhy_DESKTOP-9OQUIPM_7087/NewGame/Content/Maps/MAP.umap'
+[2020.04.23-09.51.33:482][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.51.33:554][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.23-09.51.33:631][ 21]LogSlate: Window 'SMU_2ST - 虚幻编辑器' being destroyed
+[2020.04.23-09.51.33:633][ 21]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2020.04.23-09.51.33:768][ 22]Cmd: QUIT_EDITOR
+[2020.04.23-09.51.33:805][ 22]LogExit: Preparing to exit.
+[2020.04.23-09.51.34:242][ 22]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.51.34:243][ 22]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.51.34:257][ 22]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.23-09.51.34:270][ 22]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-09.51.34:270][ 22]LogExit: Editor shut down
+[2020.04.23-09.51.34:270][ 22]LogExit: Transaction tracking system shut down
+[2020.04.23-09.51.34:607][ 22]LogExit: Object subsystem successfully closed.
+[2020.04.23-09.51.34:633][ 22]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (672)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2020.04.23-09.51.34:776][ 22]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.04.23-09.51.34:777][ 22]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.04.23-09.51.34:778][ 22]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.04.23-09.51.34:779][ 22]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.04.23-09.51.34:780][ 22]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.04.23-09.51.35:540][ 22]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.04.23-09.51.35:541][ 22]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.04.23-09.51.35:542][ 22]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.04.23-09.51.35:542][ 22]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.04.23-09.51.35:542][ 22]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.04.23-09.51.35:542][ 22]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.04.23-09.51.35:542][ 22]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.04.23-09.51.35:597][ 22]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.04.23-09.51.35:598][ 22]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.04.23-09.51.35:598][ 22]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.04.23-09.51.35:598][ 22]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.04.23-09.51.35:598][ 22]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.04.23-09.51.35:598][ 22]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.04.23-09.51.35:601][ 22]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.04.23-09.51.35:602][ 22]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.04.23-09.51.35:602][ 22]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.04.23-09.51.35:602][ 22]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.04.23-09.51.35:602][ 22]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.04.23-09.51.35:603][ 22]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.04.23-09.51.35:604][ 22]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.04.23-09.51.35:604][ 22]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.04.23-09.51.35:605][ 22]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.04.23-09.51.35:665][ 22]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.04.23-09.51.35:873][ 22]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.23-09.51.35:874][ 22]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.23-09.51.35:976][ 22]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.23-09.51.36:077][ 22]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.23-09.51.36:077][ 22]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.23-09.51.36:078][ 22]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.23-09.51.36:078][ 22]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.23-09.51.36:078][ 22]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.23-09.51.36:078][ 22]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.23-09.51.36:079][ 22]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.23-09.51.36:080][ 22]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.23-09.51.36:080][ 22]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.23-09.51.36:080][ 22]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.23-09.51.36:080][ 22]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.23-09.51.36:080][ 22]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.23-09.51.36:083][ 22]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.23-09.51.36:084][ 22]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.23-09.51.36:084][ 22]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.23-09.51.36:084][ 22]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.23-09.51.36:084][ 22]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.23-09.51.36:084][ 22]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.23-09.51.36:085][ 22]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.23-09.51.36:103][ 22]LogDerivedDataCache: Shutdown
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.23-09.51.36:104][ 22]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.23-09.51.36:105][ 22]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.23-09.51.36:105][ 22]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.23-09.51.36:105][ 22]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.23-09.51.36:105][ 22]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.23-09.51.36:105][ 22]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.23-09.51.36:107][ 22]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.23-09.51.36:107][ 22]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.23-09.51.36:109][ 22]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.23-09.51.36:109][ 22]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.23-09.51.36:117][ 22]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.23-09.51.36:117][ 22]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.23-09.51.36:117][ 22]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.23-09.51.36:117][ 22]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.23-09.51.36:117][ 22]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.23-09.51.36:118][ 22]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.23-09.51.36:118][ 22]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.23-09.51.36:119][ 22]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.23-09.51.36:119][ 22]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.23-09.51.36:152][ 22]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.23-09.51.36:152][ 22]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.23-09.51.36:152][ 22]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF13E3B4C-4D67-4814-791A-9CA4FFA56C6A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=35c327304af20f93ec65a18e015438e8%7Caa12f778d15745b6ae10de1567445cfb%7Caedc8a6e-ce5d-4da3-a1c4-8e07bfe2ceb4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.23-09.51.36:167][ 22]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.23-09.51.36:168][ 22]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.23-09.51.36:170][ 22]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.23-09.51.36:171][ 22]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.23-09.51.36:172][ 22]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.23-09.51.36:172][ 22]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.23-09.51.36:172][ 22]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.23-09.51.36:172][ 22]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.23-09.51.36:174][ 22]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.23-09.51.36:175][ 22]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.23-09.51.36:175][ 22]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.23-09.51.36:175][ 22]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.23-09.51.36:175][ 22]LogD3D11RHI: Shutdown
+[2020.04.23-09.51.36:176][ 22]LogD3D11RHI: CleanupD3DDevice
+[2020.04.23-09.51.36:176][ 22]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.23-09.51.36:176][ 22]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.23-09.51.36:176][ 22]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.23-09.51.36:334][ 22]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.23-09.51.36:348][ 22]LogExit: Exiting.
+[2020.04.23-09.51.36:383][ 22]Log file closed, 04/23/20 18:51:36
