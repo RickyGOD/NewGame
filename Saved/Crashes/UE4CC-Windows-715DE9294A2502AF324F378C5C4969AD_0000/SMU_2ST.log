@@ -1,0 +1,1213 @@
+﻿Log file open, 04/23/20 11:53:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SMU_2ST
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.713288
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: G:/ue4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.23-02.53.51:271][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.23-02.53.51:271][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.23-02.53.51:272][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.23-02.53.51:273][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.23-02.53.51:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:273][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:334][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-02.53.51:334][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-02.53.51:335][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-02.53.51:345][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-02.53.51:348][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.23-02.53.51:367][  0]LogHAL: Display: Platform has ~ 32 GB [34303365120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.23-02.53.51:367][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.23-02.53.51:367][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-02.53.51:367][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-02.53.51:368][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.23-02.53.51:390][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.23-02.53.51:390][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.23-02.53.51:390][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.23-02.53.51:403][  0]LogInit: Computer: DESKTOP-8D7675O
+[2020.04.23-02.53.51:403][  0]LogInit: User: 可乐犀牛
+[2020.04.23-02.53.51:403][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.23-02.53.51:403][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.23-02.53.51:403][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.23-02.53.51:403][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.23-02.53.51:403][  0]LogMemory: Process Physical Memory: 103.29 MB used, 103.30 MB peak
+[2020.04.23-02.53.51:403][  0]LogMemory: Process Virtual Memory: 100.56 MB used, 100.56 MB peak
+[2020.04.23-02.53.51:403][  0]LogMemory: Physical Memory: 3497.87 MB used,  29216.37 MB free, 32714.24 MB total
+[2020.04.23-02.53.51:403][  0]LogMemory: Virtual Memory: 4701.77 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.04.23-02.53.51:412][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.23-02.53.52:133][  0]LogInit: Using OS detected language (zh-CN).
+[2020.04.23-02.53.52:133][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.04.23-02.53.52:196][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.04.23-02.53.52:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.04.23-02.53.52:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.04.23-02.53.52:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.04.23-02.53.52:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.04.23-02.53.52:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.04.23-02.53.52:631][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.23-02.53.53:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.23-02.53.53:308][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.23-02.53.57:782][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.23-02.53.57:782][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.23-02.53.57:895][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.04.23-02.53.57:895][  0]LogD3D11RHI:       11048/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.23-02.53.57:898][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.23-02.53.57:898][  0]LogD3D11RHI:       0/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.23-02.53.57:898][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.23-02.53.58:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.23-02.53.58:012][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.23-02.53.58:012][  0]LogWindows: EnumDisplayDevices:
+[2020.04.23-02.53.58:012][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.04.23-02.53.58:012][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2020.04.23-02.53.58:012][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.04.23-02.53.58:013][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.04.23-02.53.58:013][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.23-02.53.58:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2020.04.23-02.53.58:013][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.04.23-02.53.58:013][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.04.23-02.53.58:013][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2020.04.23-02.53.58:169][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.23-02.53.58:520][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.23-02.54.07:442][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.23-02.54.07:534][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.23-02.54.07:574][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.23-02.54.07:596][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.23-02.54.07:650][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.23-02.54.07:701][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.23-02.54.07:728][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.23-02.54.07:760][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.23-02.54.07:796][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.23-02.54.07:881][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.23-02.54.07:882][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.23-02.54.07:912][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.23-02.54.08:046][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.23-02.54.08:046][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.23-02.54.08:072][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.23-02.54.08:072][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.23-02.54.08:102][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.23-02.54.08:122][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.23-02.54.08:142][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.23-02.54.08:187][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.23-02.54.08:240][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.23-02.54.08:240][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.23-02.54.08:240][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.23-02.54.08:424][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.23-02.54.09:148][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (I:/ue4/NewGame/Intermediate/Shaders/WorkingDirectory/7488/).
+[2020.04.23-02.54.09:148][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/可乐犀牛/AppData/Local/Temp/UnrealShaderWorkingDir/793A4A6C4D8926C3155583A83EEA7338/'.
+[2020.04.23-02.54.09:157][  0]LogXGEController: Cleaning working directory: C:/Users/可乐犀牛/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.23-02.54.09:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.23-02.54.09:157][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.23-02.54.09:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.23-02.54.13:581][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.23-02.54.13:785][  0]LogDerivedDataCache: Loaded boot cache 0.20s 82MB C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-02.54.13:785][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.23-02.54.13:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/ue4/NewGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.23-02.54.13:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.23-02.54.13:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/ue4/NewGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-02.54.13:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.23-02.54.13:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.23-02.54.13:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-02.54.13:845][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.23-02.54.13:847][  0]LogDerivedDataCache: Using Local data cache path C:/Users/可乐犀牛/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.23-02.54.13:847][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.23-02.54.13:847][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.23-02.54.13:902][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.23-02.54.13:962][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.23-02.54.14:049][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.23-02.54.15:339][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2020.04.23-02.54.19:884][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-02.54.22:913][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.23-02.54.22:913][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.23-02.54.22:913][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.23-02.54.22:913][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.23-02.54.22:925][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.23-02.54.23:586][  0]LogNetVersion: SMU_2ST 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 139875205)
+[2020.04.23-02.54.31:807][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.136512 seconds
+[2020.04.23-02.54.31:815][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.23-02.54.31:815][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.23-02.54.31:815][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.23-02.54.58:620][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.23-02.54.58:675][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.23-02.54.59:474][  0]SourceControl: 源码管理已禁用
+[2020.04.23-02.54.59:495][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.23-02.54.59:495][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.23-02.54.59:591][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.23-02.54.59:591][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.23-02.54.59:618][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.23-02.54.59:618][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.23-02.54.59:696][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.23-02.54.59:697][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.23-02.55.01:198][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.23-02.55.02:058][  0]LogOcInput: OculusInput pre-init called
+[2020.04.23-02.55.02:168][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.23-02.55.02:168][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.23-02.55.03:106][  0]LogEngine: Initializing Engine...
+[2020.04.23-02.55.03:128][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.23-02.55.03:163][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.034 s
+[2020.04.23-02.55.03:386][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.23-02.55.03:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.23-02.55.03:781][  0]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.55.03:809][  0]LogInit: FAudioDevice initialized.
+[2020.04.23-02.55.03:809][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.23-02.55.03:884][  0]LogDerivedDataCache: Saved boot cache 0.08s 82MB C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-02.55.03:891][  0]LogInit: Texture streaming: Enabled
+[2020.04.23-02.55.04:072][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.23-02.55.04:072][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.23-02.55.04:073][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.23-02.55.04:665][  0]LogInit: Transaction tracking system initialized
+[2020.04.23-02.55.06:045][  0]BlueprintLog: New page: 编辑器加载
+[2020.04.23-02.55.09:476][  0]LocalizationService: 本地化服务已禁用
+[2020.04.23-02.55.11:749][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.23-02.55.11:750][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.23-02.55.12:781][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/' took 0.01s
+[2020.04.23-02.55.12:781][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.23-02.55.12:781][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.23-02.55.20:025][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.23-02.55.20:025][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.23-02.55.20:153][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-02.55.20:155][  0]LightingResults: New page: 光照构建
+[2020.04.23-02.55.20:354][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.55.20:519][  0]MapCheck: New page: 地图检测
+[2020.04.23-02.55.20:519][  0]LightingResults: New page: 光照构建
+[2020.04.23-02.55.20:866][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.04.23-02.55.22:146][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.23-02.55.22:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-02.55.22:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.23-02.55.22:518][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-02.55.22:518][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.622毫秒。
+[2020.04.23-02.55.22:518][  0]LogFileHelpers: Loading map 'Template_Default' took 2.392
+[2020.04.23-02.55.24:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.55.24:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.55.24:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.55.24:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.55.24:770][  0]LogCollectionManager: Loaded 0 collections in 0.001913 seconds
+[2020.04.23-02.55.24:841][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Saved/Collections/' took 0.00s
+[2020.04.23-02.55.24:841][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/Developers/可乐犀牛/Collections/' took 0.00s
+[2020.04.23-02.55.24:841][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/Collections/' took 0.00s
+[2020.04.23-02.55.24:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.04.23-02.55.24:850][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2863 classes and 680 folders.
+[2020.04.23-02.55.24:900][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.23-02.55.26:500][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.23-02.55.26:542][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.23-02.55.27:830][  0]LogSlate: Took 0.026449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.23-02.55.27:898][  0]LogSlate: Took 0.067607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.23-02.55.27:948][  0]LogSlate: Took 0.018809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.23-02.55.28:003][  0]LogSlate: Took 0.028774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.23-02.55.29:050][  0]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:1).
+[2020.04.23-02.55.29:863][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.23-02.55.29:863][  0]LogLoad: (Engine Initialization) Total time: 133.33 seconds
+[2020.04.23-02.55.29:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2020.04.23-02.55.30:113][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.23-02.55.30:225][  0]LogSlate: Took 0.015197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-02.55.30:351][  1]LogFileCache: Retrieving MD5 hashes for directory 'I:/ue4/NewGame/Content/' took 0.39s
+[2020.04.23-02.55.30:382][  1]LogAssetRegistry: Asset discovery search completed in 75.0435 seconds
+[2020.04.23-02.55.30:385][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2020.04.23-02.55.30:385][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2020.04.23-02.55.33:961][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.55.41:425][878]LogTexture: Display: 正在编译纹理：B（BGRA8、500X500）
+[2020.04.23-02.55.41:426][878]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-02.55.41:433][878]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/BP_item/item_LiftPlus.item_LiftPlus
+[2020.04.23-02.55.41:821][878]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.23-02.55.44:458][ 34]LogSlate: Window 'item_LiftPlus' being destroyed
+[2020.04.23-02.55.44:514][ 34]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.55.44:582][ 34]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/BP_item/item_LiftPlus.item_LiftPlus
+[2020.04.23-02.55.45:044][ 34]LogSlate: Took 0.014616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.23-02.55.47:749][335]LogSlate: Window 'item_LiftPlus' being destroyed
+[2020.04.23-02.55.47:752][335]LogSlate: Window 'item_LiftPlus' being destroyed
+[2020.04.23-02.55.47:758][335]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.55.53:558][970]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/F-items.F-items
+[2020.04.23-02.55.54:091][971]LogSlate: Took 0.016273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.23-02.55.58:402][444]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/items/item-SpeedUp.item-SpeedUp
+[2020.04.23-02.56.05:017][190]LogSlate: Window 'item-SpeedUp' being destroyed
+[2020.04.23-02.56.05:021][190]LogSlate: Window 'item-SpeedUp' being destroyed
+[2020.04.23-02.56.05:027][190]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.56.05:094][190]LogBlueprintUserMessages: [item-SpeedUp_C_0] fff
+[2020.04.23-02.56.05:094][190]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.23-02.56.05:094][190]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.56.08:627][568]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.56.08:655][568]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/testmap.testmap
+[2020.04.23-02.56.08:712][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.23-02.56.08:712][568]Cmd: MAP LOAD FILE="I:/ue4/NewGame/Content/Maps/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-02.56.08:713][568]LightingResults: New page: 光照构建
+[2020.04.23-02.56.08:713][568]LoadErrors: New page: 正在加载地图：testmap.umap
+[2020.04.23-02.56.08:713][568]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.56.08:713][568]MapCheck: New page: 地图检测
+[2020.04.23-02.56.08:713][568]LightingResults: New page: 光照构建
+[2020.04.23-02.56.08:754][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.23-02.56.08:867][568]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-02.56.08:903][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.23-02.56.08:944][568]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-02.56.08:944][568]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.077毫秒。
+[2020.04.23-02.56.08:944][568]LogFileHelpers: Loading map 'testmap' took 0.232
+[2020.04.23-02.56.10:617][737]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-02.56.10:655][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.10:660][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-02.56.10:667][737]PIE: New page: PIE会话：testmap（2020年4月23日 下午8:56:10）
+[2020.04.23-02.56.10:687][737]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.23-02.56.10:700][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.56.10:704][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004414s)
+[2020.04.23-02.56.10:705][737]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.56.10:705][737]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2020.04.23-02.56.10:705][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005501s)
+[2020.04.23-02.56.10:738][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.23-02.56.10:834][737]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.56.10:843][737]LogInit: FAudioDevice initialized.
+[2020.04.23-02.56.10:863][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.56.10:864][737]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-02.56.10:882][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-11.56.10
+[2020.04.23-02.56.10:899][737]LogWorld: Bringing up level for play took: 0.018230
+[2020.04.23-02.56.10:899][737]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.04.23-02.56.10:937][737]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.23-02.56.10:937][737]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.10:937][737]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.10:937][737]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.10:947][737]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.10:949][737]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.925
+[2020.04.23-02.56.10:949][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.10:999][738]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.23-02.56.25:778][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.25:796][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.56.25:796][477]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.56.25:816][477]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-02.56.25:820][477]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.56.25:835][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-02.56.25:835][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.25:927][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.23-02.56.25:942][478]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.23-02.56.27:126][617]LogEditorViewport: Clicking on Actor (LMB): Ghost_BP_C (Ghost_BP)
+[2020.04.23-02.56.28:253][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.23-02.56.29:123][815]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-02.56.29:893][904]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1E0162FA-4C86-C8FE-8250-ACBB4978AE5A}
+[2020.04.23-02.56.29:893][904]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CFF2A4BF-4E44-C01D-D2A3-16B5826A6CD6}
+[2020.04.23-02.56.30:863][ 18]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.23-02.56.30:863][ 18]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.23-02.56.30:863][ 18]SourceControl: Error: 未能启用Git源码管理。需要安装Git并为git可执行文件指定一个有效路径。
+[2020.04.23-02.56.47:914][371]LogSlate: Window '源码管理登陆' being destroyed
+[2020.04.23-02.56.52:162][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.56.55:661][204]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-02.56.55:700][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.55:700][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-02.56.55:700][204]PIE: New page: PIE会话：testmap（2020年4月23日 下午8:56:55）
+[2020.04.23-02.56.55:700][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.56.55:704][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004145s)
+[2020.04.23-02.56.55:705][204]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.56.55:705][204]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.04.23-02.56.55:705][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005073s)
+[2020.04.23-02.56.55:771][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.23-02.56.55:798][204]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.56.55:806][204]LogInit: FAudioDevice initialized.
+[2020.04.23-02.56.55:813][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.56.55:813][204]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-02.56.55:815][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-11.56.55
+[2020.04.23-02.56.55:815][204]LogWorld: Bringing up level for play took: 0.001911
+[2020.04.23-02.56.55:816][204]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.23-02.56.55:817][204]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.55:817][204]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.55:817][204]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.55:817][204]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.55:819][204]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间-0.205
+[2020.04.23-02.56.55:819][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.56:562][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.56:562][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.56.56:562][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.56.56:583][288]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-02.56.56:587][288]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.56.56:596][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-02.56.56:596][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.56:635][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.23-02.56.56:666][290]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.23-02.56.57:316][368]LogEditorViewport: Clicking on Actor (LMB): F-character_C (F-character)
+[2020.04.23-02.56.58:149][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.23-02.56.59:580][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.56.59:660][592]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-02.56.59:683][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.56.59:683][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-02.56.59:683][592]PIE: New page: PIE会话：testmap（2020年4月23日 下午8:56:59）
+[2020.04.23-02.56.59:683][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.56.59:687][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2020.04.23-02.56.59:688][592]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.56.59:688][592]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2020.04.23-02.56.59:688][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005033s)
+[2020.04.23-02.56.59:719][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.23-02.56.59:745][592]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.56.59:753][592]LogInit: FAudioDevice initialized.
+[2020.04.23-02.56.59:760][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.56.59:760][592]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-02.56.59:762][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-11.56.59
+[2020.04.23-02.56.59:762][592]LogWorld: Bringing up level for play took: 0.001786
+[2020.04.23-02.56.59:762][592]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.23-02.56.59:764][592]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.59:764][592]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.56.59:764][592]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.59:764][592]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.56.59:766][592]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间-0.259
+[2020.04.23-02.56.59:766][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.57.24:538][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.57.24:539][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.57.24:539][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.57.24:561][556]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-02.57.24:564][556]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.57.24:568][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-02.57.24:568][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.57.24:607][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.23-02.57.24:640][558]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.23-02.57.26:107][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.57.30:363][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Ghost01/Ghost01_BluePrint/Ghost_BP.Ghost_BP
+[2020.04.23-02.58.10:163][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.58.10:898][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.58.10:973][482]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-02.58.10:996][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.58.10:996][482]BlueprintLog: New page: 运行前自动重新编译
+[2020.04.23-02.58.11:013][482]LogPlayLevel: [PlayLevel] Compiling Ghost_BP before play...
+[2020.04.23-02.58.11:307][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.04.23-02.58.11:307][482]LogPlayLevel: PlayLevel: Blueprint regeneration took 311 ms (1 blueprints)
+[2020.04.23-02.58.11:307][482]PIE: New page: PIE会话：testmap（2020年4月23日 下午8:58:11）
+[2020.04.23-02.58.11:308][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.58.11:312][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004175s)
+[2020.04.23-02.58.11:313][482]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.58.11:313][482]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2020.04.23-02.58.11:313][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005624s)
+[2020.04.23-02.58.11:347][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.23-02.58.11:372][482]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.58.11:381][482]LogInit: FAudioDevice initialized.
+[2020.04.23-02.58.11:388][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.58.11:388][482]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-02.58.11:390][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-11.58.11
+[2020.04.23-02.58.11:390][482]LogWorld: Bringing up level for play took: 0.001919
+[2020.04.23-02.58.11:390][482]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.23-02.58.11:392][482]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.58.11:392][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.58.11:392][482]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.58.11:392][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.58.11:395][482]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间1.37
+[2020.04.23-02.58.11:395][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.58.30:252][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.58.30:253][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.58.30:253][740]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.58.30:274][740]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-02.58.30:281][740]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.58.30:288][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-02.58.30:288][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.58.30:325][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.23-02.58.30:357][742]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.23-02.58.31:846][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.59.25:833][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.59.39:340][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.59.42:163][995]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.23-02.59.42:384][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.23-02.59.58:587][195]LogSlate: Window 'Ghost_BP' being destroyed
+[2020.04.23-02.59.58:594][195]LogSlate: Window 'Ghost_BP' being destroyed
+[2020.04.23-02.59.58:622][195]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-02.59.59:438][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-02.59.59:539][282]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-02.59.59:562][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-02.59.59:562][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-02.59.59:562][282]PIE: New page: PIE会话：testmap（2020年4月23日 下午8:59:59）
+[2020.04.23-02.59.59:562][282]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-02.59.59:567][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004567s)
+[2020.04.23-02.59.59:568][282]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-02.59.59:568][282]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.04.23-02.59.59:568][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005956s)
+[2020.04.23-02.59.59:603][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.23-02.59.59:629][282]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-02.59.59:638][282]LogInit: FAudioDevice initialized.
+[2020.04.23-02.59.59:644][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-02.59.59:645][282]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-02.59.59:646][282]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-11.59.59
+[2020.04.23-02.59.59:647][282]LogWorld: Bringing up level for play took: 0.001796
+[2020.04.23-02.59.59:647][282]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.23-02.59.59:649][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.59.59:649][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-02.59.59:649][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.59.59:649][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-02.59.59:650][282]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间-0.374
+[2020.04.23-02.59.59:651][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.21:370][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.21:370][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.21:370][869]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.21:392][869]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.00.21:396][869]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.00.21:402][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.00.21:402][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.21:437][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.04.23-03.00.21:471][871]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.23-03.00.22:287][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.00.22:345][976]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.00.22:366][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.22:366][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.00.22:367][976]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:00:22）
+[2020.04.23-03.00.22:367][976]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.22:371][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004240s)
+[2020.04.23-03.00.22:372][976]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.00.22:372][976]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.04.23-03.00.22:372][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005234s)
+[2020.04.23-03.00.22:405][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.23-03.00.22:432][976]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.00.22:441][976]LogInit: FAudioDevice initialized.
+[2020.04.23-03.00.22:448][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.22:448][976]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.00.22:450][976]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.00.22
+[2020.04.23-03.00.22:451][976]LogWorld: Bringing up level for play took: 0.002037
+[2020.04.23-03.00.22:451][976]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.23-03.00.22:453][976]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.22:453][976]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.22:453][976]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.22:453][976]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.22:455][976]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.431
+[2020.04.23-03.00.22:455][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.25:310][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.25:310][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.25:310][315]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.25:331][315]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.00.25:335][315]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.00.25:342][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.00.25:342][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.25:380][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.23-03.00.25:415][317]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.23-03.00.25:940][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.00.25:998][387]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.00.26:020][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.26:020][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.00.26:020][387]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:00:26）
+[2020.04.23-03.00.26:020][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.26:024][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004173s)
+[2020.04.23-03.00.26:025][387]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.00.26:025][387]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2020.04.23-03.00.26:025][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005102s)
+[2020.04.23-03.00.26:054][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.23-03.00.26:081][387]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.00.26:089][387]LogInit: FAudioDevice initialized.
+[2020.04.23-03.00.26:096][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.26:097][387]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.00.26:098][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.00.26
+[2020.04.23-03.00.26:099][387]LogWorld: Bringing up level for play took: 0.001837
+[2020.04.23-03.00.26:099][387]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.23-03.00.26:101][387]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.26:101][387]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.26:101][387]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.26:101][387]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.26:103][387]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.078
+[2020.04.23-03.00.26:103][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.39:865][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.39:865][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.39:865][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.39:886][ 30]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.00.39:890][ 30]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.00.39:895][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.00.39:895][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.39:933][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.23-03.00.39:966][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.23-03.00.40:775][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.00.40:849][138]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.00.40:871][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.40:871][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.00.40:872][138]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:00:40）
+[2020.04.23-03.00.40:872][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.40:876][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004206s)
+[2020.04.23-03.00.40:877][138]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.00.40:877][138]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.04.23-03.00.40:877][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005271s)
+[2020.04.23-03.00.40:909][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.04.23-03.00.40:935][138]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.00.40:943][138]LogInit: FAudioDevice initialized.
+[2020.04.23-03.00.40:950][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.40:951][138]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.00.40:952][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.00.40
+[2020.04.23-03.00.40:953][138]LogWorld: Bringing up level for play took: 0.002030
+[2020.04.23-03.00.40:953][138]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.04.23-03.00.40:955][138]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.40:955][138]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.00.40:955][138]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.40:955][138]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.00.40:957][138]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.932
+[2020.04.23-03.00.40:957][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.58:207][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.58:207][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.00.58:207][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.00.58:229][204]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.00.58:233][204]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.00.58:239][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.00.58:239][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.00.58:276][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.23-03.00.58:308][206]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.23-03.00.59:333][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.01.48:450][920]LogSkeletalMesh: Building Skeletal Mesh Butterfly_Anim_Var01...
+[2020.04.23-03.01.48:460][920]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var01.Butterfly_Anim_Var01
+[2020.04.23-03.01.48:470][920]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var01.Butterfly_Anim_Var01
+[2020.04.23-03.01.48:591][920]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.23-03.01.48:880][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.23-03.01.48:892][920]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.23-03.01.49:746][920]LogRenderer: Reallocating scene render targets to support 1280x884 Format 10 NumSamples 1 (Frame:1).
+[2020.04.23-03.01.51:815][109]LogSlate: Window 'Butterfly_Anim_Var01' being destroyed
+[2020.04.23-03.01.51:818][109]LogSlate: Window 'Butterfly_Anim_Var01' being destroyed
+[2020.04.23-03.01.51:818][109]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.01.53:788][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.02.04:633][503]LogAIModule: Creating AISystem for world ma10_Monsterset_02
+[2020.04.23-03.02.04:654][503]LogAssetEditorManager: Opening Asset editor for World /Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02
+[2020.04.23-03.02.04:740][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.23-03.02.06:160][503]LogSlate: Window '保存内容' being destroyed
+[2020.04.23-03.02.06:291][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost01/Ghost01_BluePrint/Ghost_BP" FILE="I:/ue4/NewGame/Content/Ghost01/Ghost01_BluePrint/Ghost_BP.uasset" SILENT=true
+[2020.04.23-03.02.06:451][503]LogSavePackage: Moving 'I:/ue4/NewGame/Saved/Ghost_BP40AF524E40550A47792FAB845FB8623A.tmp' to 'I:/ue4/NewGame/Content/Ghost01/Ghost01_BluePrint/Ghost_BP.uasset'
+[2020.04.23-03.02.06:475][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testmap" FILE="I:/ue4/NewGame/Content/Maps/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.23-03.02.06:531][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.23-03.02.06:740][503]LogSavePackage: Moving 'I:/ue4/NewGame/Saved/testmap64DBF74A49E3946F96DDA98F946DC82D.tmp' to 'I:/ue4/NewGame/Content/Maps/testmap.umap'
+[2020.04.23-03.02.06:783][503]LogFileHelpers: Saving map 'testmap' took 0.309
+[2020.04.23-03.02.06:784][503]Cmd: MAP LOAD FILE="I:/ue4/NewGame/Content/ma10_Monsterset_02/Maps/ma10_Monsterset_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-03.02.06:784][503]LightingResults: New page: 光照构建
+[2020.04.23-03.02.06:784][503]LoadErrors: New page: 正在加载地图：ma10_Monsterset_02.umap
+[2020.04.23-03.02.06:785][503]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.06:785][503]MapCheck: New page: 地图检测
+[2020.04.23-03.02.06:785][503]LightingResults: New page: 光照构建
+[2020.04.23-03.02.06:821][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.23-03.02.06:922][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-03.02.06:956][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.23-03.02.06:996][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-03.02.06:996][503]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.082毫秒。
+[2020.04.23-03.02.06:996][503]LogFileHelpers: Loading map 'ma10_Monsterset_02' took 0.214
+[2020.04.23-03.02.07:071][503]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.02.07:862][591]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.02.07:886][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel' has LevelScriptBlueprint '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02' with GeneratedClass '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02_C' with ClassGeneratedBy '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02'
+[2020.04.23-03.02.07:886][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.02.07:886][591]PIE: New page: PIE会话：ma10_Monsterset_02（2020年4月23日 下午9:02:07）
+[2020.04.23-03.02.07:886][591]LogPlayLevel: Creating play world package: /Game/ma10_Monsterset_02/Maps/UEDPIE_0_ma10_Monsterset_02
+[2020.04.23-03.02.07:890][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003926s)
+[2020.04.23-03.02.07:891][591]LogAIModule: Creating AISystem for world ma10_Monsterset_02
+[2020.04.23-03.02.07:891][591]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.04.23-03.02.07:891][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02 to /Game/ma10_Monsterset_02/Maps/UEDPIE_0_ma10_Monsterset_02.ma10_Monsterset_02 (0.004949s)
+[2020.04.23-03.02.07:920][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.23-03.02.07:946][591]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.02.07:954][591]LogInit: FAudioDevice initialized.
+[2020.04.23-03.02.07:961][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.02.07:961][591]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.02.07:970][591]LogWorld: Bringing World /Game/ma10_Monsterset_02/Maps/UEDPIE_0_ma10_Monsterset_02.ma10_Monsterset_02 up for play (max tick rate 0) at 2020.04.23-12.02.07
+[2020.04.23-03.02.07:971][591]LogWorld: Bringing up level for play took: 0.010185
+[2020.04.23-03.02.07:972][591]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.04.23-03.02.07:992][591]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.02.07:992][591]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.02.07:992][591]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.02.07:993][591]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.02.07:994][591]PIE: /Game/ma10_Monsterset_02/Maps/UEDPIE_0_ma10_Monsterset_02在编辑器中运行的起始时间-0.03
+[2020.04.23-03.02.07:994][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel' has LevelScriptBlueprint '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02' with GeneratedClass '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02_C' with ClassGeneratedBy '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02'
+[2020.04.23-03.02.28:321][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel' has LevelScriptBlueprint '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02' with GeneratedClass '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02_C' with ClassGeneratedBy '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02'
+[2020.04.23-03.02.28:321][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.02.28:321][ 18]LogWorld: BeginTearingDown for /Game/ma10_Monsterset_02/Maps/UEDPIE_0_ma10_Monsterset_02
+[2020.04.23-03.02.28:343][ 18]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.02.28:347][ 18]LogWorld: UWorld::CleanupWorld for ma10_Monsterset_02, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.28:354][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.02.28:354][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel' has LevelScriptBlueprint '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02' with GeneratedClass '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02_C' with ClassGeneratedBy '/Game/ma10_Monsterset_02/Maps/ma10_Monsterset_02.ma10_Monsterset_02:PersistentLevel.ma10_Monsterset_02'
+[2020.04.23-03.02.28:394][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.23-03.02.28:424][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.04.23-03.02.30:792][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.02.34:070][672]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Attack_01.ms02_01_Attack_01
+[2020.04.23-03.02.34:138][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.23-03.02.34:177][672]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.23-03.02.34:828][672]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.23-03.02.37:755][ 11]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Attack_02.ms02_01_Attack_02
+[2020.04.23-03.02.37:876][ 11]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.40:010][257]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_01.ms02_01_Damage_01
+[2020.04.23-03.02.40:027][257]LogAnimationCompression: Recompressing (AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_01.ms02_01_Damage_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.23-03.02.40:041][257]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_01.ms02_01_Damage_01
+[2020.04.23-03.02.40:168][257]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.41:930][461]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_02.ms02_01_Damage_02
+[2020.04.23-03.02.41:930][461]LogAnimationCompression: Recompressing (AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_02.ms02_01_Damage_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.23-03.02.41:942][461]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Damage_02.ms02_01_Damage_02
+[2020.04.23-03.02.42:068][461]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.47:078][ 56]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Die.ms02_01_Die
+[2020.04.23-03.02.47:078][ 56]LogAnimationCompression: Recompressing (AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Die.ms02_01_Die) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.23-03.02.47:090][ 56]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Die.ms02_01_Die
+[2020.04.23-03.02.47:219][ 56]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.49:716][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_GetUp.ms02_01_GetUp
+[2020.04.23-03.02.49:716][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_GetUp.ms02_01_GetUp) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.23-03.02.49:731][347]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_GetUp.ms02_01_GetUp
+[2020.04.23-03.02.49:854][347]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.02.57:022][804]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Idle.ms02_01_Idle
+[2020.04.23-03.02.57:140][804]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.03.06:415][143]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Jump.ms02_01_Jump
+[2020.04.23-03.03.06:532][143]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.03.15:809][252]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Run.ms02_01_Run
+[2020.04.23-03.03.15:930][252]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.03.20:259][768]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Stunned.ms02_01_Stunned
+[2020.04.23-03.03.20:259][768]LogAnimationCompression: Recompressing (AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Stunned.ms02_01_Stunned) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.23-03.03.20:271][768]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Stunned.ms02_01_Stunned
+[2020.04.23-03.03.20:396][768]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.03.24:505][254]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Walk.ms02_01_Walk
+[2020.04.23-03.03.24:627][254]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.03.27:241][561]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Jump.ms02_01_Jump
+[2020.04.23-03.03.27:366][561]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.39:618][180]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.40:846][304]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.44:365][709]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.45:152][794]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.46:100][898]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.47:444][ 50]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.06.48:330][147]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.09.01:429][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.23-03.10.27:864][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.10.35:393][405]LogAIModule: Creating AISystem for world Test-Begin
+[2020.04.23-03.10.35:397][405]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test-Begin.Test-Begin
+[2020.04.23-03.10.35:474][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.04.23-03.10.35:475][405]Cmd: MAP LOAD FILE="I:/ue4/NewGame/Content/Maps/Test-Begin.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-03.10.35:475][405]LightingResults: New page: 光照构建
+[2020.04.23-03.10.35:476][405]LoadErrors: New page: 正在加载地图：Test-Begin.umap
+[2020.04.23-03.10.35:477][405]LogWorld: UWorld::CleanupWorld for ma10_Monsterset_02, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.10.35:478][405]MapCheck: New page: 地图检测
+[2020.04.23-03.10.35:478][405]LightingResults: New page: 光照构建
+[2020.04.23-03.10.35:533][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.23-03.10.35:565][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.23-03.10.35:597][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.04.23-03.10.35:714][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-03.10.35:748][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.23-03.10.35:790][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-03.10.35:790][405]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.078毫秒。
+[2020.04.23-03.10.35:790][405]LogFileHelpers: Loading map 'Test-Begin' took 0.316
+[2020.04.23-03.10.36:556][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.10.36:759][512]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.10.36:770][512]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/testmap.testmap
+[2020.04.23-03.10.36:805][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.23-03.10.36:806][512]Cmd: MAP LOAD FILE="I:/ue4/NewGame/Content/Maps/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-03.10.36:806][512]LightingResults: New page: 光照构建
+[2020.04.23-03.10.36:807][512]LoadErrors: New page: 正在加载地图：testmap.umap
+[2020.04.23-03.10.36:807][512]LogWorld: UWorld::CleanupWorld for Test-Begin, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.10.36:807][512]MapCheck: New page: 地图检测
+[2020.04.23-03.10.36:807][512]LightingResults: New page: 光照构建
+[2020.04.23-03.10.36:841][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.23-03.10.37:012][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-03.10.37:045][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.23-03.10.37:087][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-03.10.37:087][512]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.08毫秒。
+[2020.04.23-03.10.37:087][512]LogFileHelpers: Loading map 'testmap' took 0.282
+[2020.04.23-03.10.38:075][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.10.38:133][629]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.10.38:155][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.10.38:155][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.10.38:155][629]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:10:38）
+[2020.04.23-03.10.38:155][629]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.10.38:160][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004351s)
+[2020.04.23-03.10.38:160][629]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.10.38:161][629]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2020.04.23-03.10.38:161][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005414s)
+[2020.04.23-03.10.38:193][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.23-03.10.38:219][629]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.10.38:228][629]LogInit: FAudioDevice initialized.
+[2020.04.23-03.10.38:235][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.10.38:235][629]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.10.38:237][629]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.10.38
+[2020.04.23-03.10.38:238][629]LogWorld: Bringing up level for play took: 0.001825
+[2020.04.23-03.10.38:238][629]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.04.23-03.10.38:239][629]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.10.38:239][629]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.10.38:239][629]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.10.38:240][629]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.10.38:241][629]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.217
+[2020.04.23-03.10.38:241][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.10.58:813][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.10.58:813][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.10.58:813][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.10.58:836][ 93]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.10.58:840][ 93]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.10.58:848][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.10.58:848][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.10.58:888][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.23-03.10.58:921][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.04.23-03.11.58:865][357]LogEditorViewport: Clicking on Actor (LMB): Ghost_BP_C (Ghost_BP)
+[2020.04.23-03.12.00:381][479]LogEditorViewport: Clicking on Actor (LMB): F-character_C (F-character)
+[2020.04.23-03.12.01:557][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.12.01:639][585]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/F-character.F-character
+[2020.04.23-03.14.24:230][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.14.24:306][873]LogSlate: Window 'F-character' being destroyed
+[2020.04.23-03.14.24:309][873]LogSlate: Window 'F-character' being destroyed
+[2020.04.23-03.14.24:310][873]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.14.25:857][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.14.30:398][414]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Ghost01/Ghost01_AnimationBP/Ghost01_AnimationBP.Ghost01_AnimationBP
+[2020.04.23-03.14.30:434][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.23-03.14.30:715][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.23-03.14.39:126][363]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Ghost01/Ghost01_AnimationBP/Ghost01_Sprint.Ghost01_Sprint
+[2020.04.23-03.14.39:255][363]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.14.47:545][313]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Ghost01/Ghost01_AnimationBP/Ghost01_idlewalk.Ghost01_idlewalk
+[2020.04.23-03.15.48:459][376]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/F-character.F-character
+[2020.04.23-03.16.53:564][737]BlueprintLog: New page: 编译F-character
+[2020.04.23-03.16.53:879][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.23-03.16.58:171][959]LogSlate: Window 'F-character' being destroyed
+[2020.04.23-03.16.58:175][959]LogSlate: Window 'F-character' being destroyed
+[2020.04.23-03.16.58:201][959]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.16.58:925][ 20]LogEditorViewport: Clicking on Actor (LMB): Ghost_BP_C (Ghost_BP)
+[2020.04.23-03.16.59:846][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.16.59:918][101]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Ghost01/Ghost01_BluePrint/Ghost_BP.Ghost_BP
+[2020.04.23-03.17.16:297][103]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.23-03.17.16:601][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.23-03.17.19:477][240]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.17.19:501][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.17.19:501][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-03.17.19:501][240]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:17:19）
+[2020.04.23-03.17.19:501][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.17.19:506][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004255s)
+[2020.04.23-03.17.19:506][240]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.17.19:507][240]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.04.23-03.17.19:507][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005188s)
+[2020.04.23-03.17.19:539][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.23-03.17.19:566][240]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.17.19:575][240]LogInit: FAudioDevice initialized.
+[2020.04.23-03.17.19:584][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.17.19:584][240]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.17.19:586][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.17.19
+[2020.04.23-03.17.19:587][240]LogWorld: Bringing up level for play took: 0.002151
+[2020.04.23-03.17.19:587][240]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.04.23-03.17.19:589][240]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.17.19:589][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.17.19:589][240]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.17.19:589][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.17.19:592][240]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间-0.432
+[2020.04.23-03.17.19:593][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.17.23:172][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.17.23:172][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.17.23:172][617]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.17.23:194][617]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.17.23:198][617]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.17.23:211][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.17.23:212][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.17.23:256][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.04.23-03.17.23:310][618]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.04.23-03.17.27:017][970]LogEditorViewport: Clicking on Actor (LMB): F-character_C (F-character)
+[2020.04.23-03.17.27:939][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.17.28:069][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/F-character.F-character
+[2020.04.23-03.20.05:696][541]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.23-03.20.05:845][541]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.23-03.20.06:670][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.23-03.20.07:377][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.20.07:461][681]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.04.23-03.20.07:484][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.20.07:484][681]BlueprintLog: New page: 运行前自动重新编译
+[2020.04.23-03.20.07:497][681]LogPlayLevel: [PlayLevel] Compiling F-character before play...
+[2020.04.23-03.20.07:497][681]LogPlayLevel: [PlayLevel]   Compiling F-character_Child01 as a dependent...
+[2020.04.23-03.20.07:772][681]LogPlayLevel: [PlayLevel] Compiling Ghost_BP before play...
+[2020.04.23-03.20.08:018][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.04.23-03.20.08:018][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 534 ms (3 blueprints)
+[2020.04.23-03.20.08:018][681]PIE: New page: PIE会话：testmap（2020年4月23日 下午9:20:08）
+[2020.04.23-03.20.08:018][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.20.08:023][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004454s)
+[2020.04.23-03.20.08:024][681]LogAIModule: Creating AISystem for world testmap
+[2020.04.23-03.20.08:024][681]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2020.04.23-03.20.08:024][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.005795s)
+[2020.04.23-03.20.08:063][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.23-03.20.08:089][681]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-03.20.08:097][681]LogInit: FAudioDevice initialized.
+[2020.04.23-03.20.08:104][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.20.08:104][681]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.23-03.20.08:106][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2020.04.23-12.20.08
+[2020.04.23-03.20.08:107][681]LogWorld: Bringing up level for play took: 0.001909
+[2020.04.23-03.20.08:107][681]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.04.23-03.20.08:109][681]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.20.08:109][681]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.23-03.20.08:109][681]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.20.08:109][681]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.23-03.20.08:111][681]PIE: /Game/Maps/UEDPIE_0_testmap在编辑器中运行的起始时间0.087
+[2020.04.23-03.20.08:111][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.20.10:646][870]LogBlueprintUserMessages: [Ghost_BP_2] Hello
+[2020.04.23-03.20.13:154][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.20.13:154][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-03.20.13:154][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_testmap
+[2020.04.23-03.20.13:177][ 70]LogSlate: Window 'SMU_2ST 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.23-03.20.13:184][ 70]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-03.20.13:201][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-03.20.13:202][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.23-03.20.13:247][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.23-03.20.13:316][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.04.23-03.20.15:249][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-03.22.11:670][772]LogUObjectArray: Warning: Other object in slot
+[2020.04.23-03.22.11:718][772]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.23-03.22.12:901][772]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.183 s
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: 
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: Stack: 
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa5ed65279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa5e587fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa5e59622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa5a1a6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa58994dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa5894e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa6358d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa6377c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa635d922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa635b5738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa635a9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa63a84c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa63a726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa63a87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa63a6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffaa8835c0d USER32.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffaa8835602 USER32.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffa63a888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ff7871d6980 UE4Editor.exe!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ff7871ea91c UE4Editor.exe!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ff7871ea9fa UE4Editor.exe!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ff7871fb92c UE4Editor.exe!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ff7871fe60e UE4Editor.exe!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffaa89d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: [Callstack] 0x00007ffaa8b2ce51 ntdll.dll!UnknownFunction []
+[2020.04.23-03.22.12:901][772]LogOutputDevice: Error: 
+[2020.04.23-03.22.12:908][772]LogStats:                SubmitErrorReport -  0.000 s
