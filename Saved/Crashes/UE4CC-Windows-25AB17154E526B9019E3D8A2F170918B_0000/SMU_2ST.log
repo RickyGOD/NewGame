@@ -1,0 +1,1448 @@
+﻿Log file open, 04/26/20 05:24:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SMU_2ST
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.064636
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: G:/ue4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.25-20.24.34:949][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.25-20.24.34:949][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.25-20.24.34:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:949][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.25-20.24.34:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.25-20.24.34:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.25-20.24.34:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:950][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.25-20.24.34:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.25-20.24.34:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.25-20.24.34:955][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.25-20.24.34:955][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.25-20.24.34:957][  0]LogHAL: Display: Platform has ~ 32 GB [34303365120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.25-20.24.34:957][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.25-20.24.34:957][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.25-20.24.34:957][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/ue4/NewGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.25-20.24.34:958][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.25-20.24.34:959][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.25-20.24.34:959][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.25-20.24.34:959][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/ue4/NewGame/Saved/Config/Windows/Engine.ini]
+[2020.04.25-20.24.34:959][  0]LogInit: Computer: DESKTOP-8D7675O
+[2020.04.25-20.24.34:959][  0]LogInit: User: 可乐犀牛
+[2020.04.25-20.24.34:959][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.25-20.24.34:959][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.25-20.24.34:959][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.25-20.24.34:959][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.25-20.24.34:959][  0]LogMemory: Process Physical Memory: 103.21 MB used, 103.21 MB peak
+[2020.04.25-20.24.34:959][  0]LogMemory: Process Virtual Memory: 92.75 MB used, 92.75 MB peak
+[2020.04.25-20.24.34:959][  0]LogMemory: Physical Memory: 4538.55 MB used,  28175.69 MB free, 32714.24 MB total
+[2020.04.25-20.24.34:959][  0]LogMemory: Virtual Memory: 4693.84 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2020.04.25-20.24.34:961][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.25-20.24.34:983][  0]LogInit: Using OS detected language (zh-CN).
+[2020.04.25-20.24.34:983][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.04.25-20.24.34:983][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.04.25-20.24.35:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.04.25-20.24.35:053][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.25-20.24.35:084][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.25-20.24.35:084][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.25-20.24.35:227][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.25-20.24.35:227][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.25-20.24.35:345][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.04.25-20.24.35:345][  0]LogD3D11RHI:       11048/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.25-20.24.35:347][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.25-20.24.35:347][  0]LogD3D11RHI:       0/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.25-20.24.35:347][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.25-20.24.35:353][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.25-20.24.35:353][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.25-20.24.35:353][  0]LogWindows: EnumDisplayDevices:
+[2020.04.25-20.24.35:353][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.04.25-20.24.35:353][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2020.04.25-20.24.35:354][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.04.25-20.24.35:354][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.04.25-20.24.35:354][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.25-20.24.35:354][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2020.04.25-20.24.35:354][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.04.25-20.24.35:354][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.04.25-20.24.35:354][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2020.04.25-20.24.35:409][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.25-20.24.35:441][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.25-20.24.35:687][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.25-20.24.35:695][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.25-20.24.35:703][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.25-20.24.35:711][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.25-20.24.35:719][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.25-20.24.35:728][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.25-20.24.35:736][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.25-20.24.35:744][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.25-20.24.35:748][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.25-20.24.35:775][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.25-20.24.35:777][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.25-20.24.35:792][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.25-20.24.35:793][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.25-20.24.35:805][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.25-20.24.35:805][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.25-20.24.35:811][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.25-20.24.35:817][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.25-20.24.35:823][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.25-20.24.35:830][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.25-20.24.35:851][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.25-20.24.35:851][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.25-20.24.35:851][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.25-20.24.35:860][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.25-20.24.35:905][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (I:/ue4/NewGame/Intermediate/Shaders/WorkingDirectory/12008/).
+[2020.04.25-20.24.35:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/可乐犀牛/AppData/Local/Temp/UnrealShaderWorkingDir/4014325E4F082C709D52B5AECDBD1C4A/'.
+[2020.04.25-20.24.35:907][  0]LogXGEController: Cleaning working directory: C:/Users/可乐犀牛/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.25-20.24.35:907][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.25-20.24.35:907][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.25-20.24.35:907][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.25-20.24.36:454][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: Loaded boot cache 0.04s 82MB C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/ue4/NewGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/ue4/NewGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.25-20.24.36:493][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.25-20.24.36:504][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.25-20.24.36:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.25-20.24.36:504][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.25-20.24.36:505][  0]LogDerivedDataCache: Using Local data cache path C:/Users/可乐犀牛/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.25-20.24.36:505][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.25-20.24.36:505][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.25-20.24.36:524][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.25-20.24.36:527][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.25-20.24.36:528][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.25-20.24.36:573][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.04.25-20.24.36:820][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.25-20.24.36:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.25-20.24.36:947][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.25-20.24.36:947][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.25-20.24.36:947][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.25-20.24.36:947][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.25-20.24.36:955][  0]LogNetVersion: SMU_2ST 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 139875205)
+[2020.04.25-20.24.37:378][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.107509 seconds
+[2020.04.25-20.24.37:386][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.25-20.24.37:386][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.25-20.24.37:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.25-20.24.38:168][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.25-20.24.38:171][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.25-20.24.38:221][  0]SourceControl: 源码管理已禁用
+[2020.04.25-20.24.38:221][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.25-20.24.38:221][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.25-20.24.38:222][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.25-20.24.38:222][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.25-20.24.38:223][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.25-20.24.38:223][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.25-20.24.38:229][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.25-20.24.38:230][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.25-20.24.38:299][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.25-20.24.38:457][  0]LogOcInput: OculusInput pre-init called
+[2020.04.25-20.24.38:462][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.25-20.24.38:462][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.25-20.24.38:527][  0]LogEngine: Initializing Engine...
+[2020.04.25-20.24.38:527][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.25-20.24.38:528][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.25-20.24.38:710][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.25-20.24.38:723][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.25-20.24.38:752][  0]LogInit: XAudio2 using 'Acer X34A (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.24.38:765][  0]LogInit: FAudioDevice initialized.
+[2020.04.25-20.24.38:765][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.25-20.24.38:850][  0]LogDerivedDataCache: Saved boot cache 0.09s 82MB C:/Users/可乐犀牛/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.25-20.24.38:856][  0]LogInit: Texture streaming: Enabled
+[2020.04.25-20.24.38:874][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.25-20.24.38:874][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.25-20.24.38:874][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.25-20.24.38:943][  0]LogInit: Transaction tracking system initialized
+[2020.04.25-20.24.38:975][  0]BlueprintLog: New page: 编辑器加载
+[2020.04.25-20.24.39:056][  0]LocalizationService: 本地化服务已禁用
+[2020.04.25-20.24.39:124][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.25-20.24.39:124][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.25-20.24.39:255][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.25-20.24.39:255][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.25-20.24.39:417][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/' took 0.01s
+[2020.04.25-20.24.39:417][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.04.25-20.24.39:417][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.04.25-20.24.39:418][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.25-20.24.39:418][  0]LightingResults: New page: 光照构建
+[2020.04.25-20.24.39:420][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.24.39:421][  0]MapCheck: New page: 地图检测
+[2020.04.25-20.24.39:421][  0]LightingResults: New page: 光照构建
+[2020.04.25-20.24.39:453][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.25-20.24.39:518][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.25-20.24.39:522][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.25-20.24.39:555][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.25-20.24.39:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.25-20.24.39:555][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.093毫秒。
+[2020.04.25-20.24.39:555][  0]LogFileHelpers: Loading map 'Template_Default' took 0.137
+[2020.04.25-20.24.39:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.24.39:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.24.39:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.24.39:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.24.39:685][  0]LogCollectionManager: Loaded 0 collections in 0.001778 seconds
+[2020.04.25-20.24.39:690][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Saved/Collections/' took 0.00s
+[2020.04.25-20.24.39:690][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/Developers/可乐犀牛/Collections/' took 0.00s
+[2020.04.25-20.24.39:690][  0]LogFileCache: Scanning file cache for directory 'I:/ue4/NewGame/Content/Collections/' took 0.00s
+[2020.04.25-20.24.39:690][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.25-20.24.39:698][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2863 classes and 680 folders.
+[2020.04.25-20.24.39:704][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.25-20.24.39:742][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.25-20.24.39:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.25-20.24.39:797][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.25-20.24.39:798][  0]LogSlate: Took 0.001228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.25-20.24.39:799][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.25-20.24.39:801][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.25-20.24.39:856][  0]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:1).
+[2020.04.25-20.24.39:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.25-20.24.39:916][  0]LogLoad: (Engine Initialization) Total time: 5.81 seconds
+[2020.04.25-20.24.39:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.25-20.24.40:002][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.25-20.24.40:026][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.25-20.24.40:038][  1]LogFileCache: Retrieving MD5 hashes for directory 'I:/ue4/NewGame/Content/' took 0.08s
+[2020.04.25-20.24.40:048][  1]LogAssetRegistry: Asset discovery search completed in 3.4757 seconds
+[2020.04.25-20.24.40:051][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.04.25-20.24.40:051][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.04.25-20.25.39:947][801]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4E1541DF-416B-297D-F37C-52B1DB9DE3C9}
+[2020.04.25-20.28.20:153][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.28.23:923][119]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.25-20.28.23:948][119]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/items/BP_item/itemBP.itemBP_C:iteminfo'. Unknown structure.
+[2020.04.25-20.28.23:948][119]LogClass: Warning: Property iteminfo of iteminfo has a struct type mismatch (tag STRUCT_REINST_S_iteminfo_1 != prop FallbackStruct) in package:  I:/ue4/NewGame/Content/items/BP_item/itemBP.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.25-20.28.23:956][119]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/items/BP_item/BP_inventory.BP_inventory_C:GetitemInfoAtlndex.itemInfo'. Unknown structure.
+[2020.04.25-20.28.23:962][119]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot.CallFunc_GetitemInfoAtlndex_itemInfo'. Unknown structure.
+[2020.04.25-20.28.23:962][119]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/InventorySlot.InventorySlot_C:ItemInfo'. Unknown structure.
+[2020.04.25-20.28.23:967][119]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag STRUCT_REINST_S_iteminfo_1 != prop FallbackStruct) in package:  I:/ue4/NewGame/Content/UI/InventorySlot.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.25-20.28.24:151][119]LogClass: Warning: Property iteminfo of iteminfo has a struct type mismatch (tag FallbackStruct != prop S_iteminfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.25-20.28.24:154][119]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag FallbackStruct != prop S_iteminfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.25-20.28.24:413][119]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.28.24:428][119]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/testmap.testmap
+[2020.04.25-20.28.24:465][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.25-20.28.24:466][119]Cmd: MAP LOAD FILE="I:/ue4/NewGame/Content/Maps/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.25-20.28.24:466][119]LightingResults: New page: 光照构建
+[2020.04.25-20.28.24:467][119]LoadErrors: New page: 正在加载地图：testmap.umap
+[2020.04.25-20.28.24:467][119]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.28.24:467][119]MapCheck: New page: 地图检测
+[2020.04.25-20.28.24:467][119]LightingResults: New page: 光照构建
+[2020.04.25-20.28.24:497][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.04.25-20.28.24:591][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.25-20.28.24:625][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.25-20.28.24:673][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.25-20.28.24:675][119]MapCheck: 地图检测完成：0个错误、0个警告、完成用时1.212毫秒。
+[2020.04.25-20.28.24:675][119]LogFileHelpers: Loading map 'testmap' took 0.209
+[2020.04.25-20.33.53:640][306]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.51.37:523][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.51.37:615][557]LogTemp: Repeating last play command: 选中的视口
+[2020.04.25-20.51.37:640][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.51.37:640][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-20.51.37:640][557]PIE: New page: PIE会话：testmap（2020年4月26日 下午2:51:37）
+[2020.04.25-20.51.37:641][557]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.25-20.51.37:642][557]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.51.37:647][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005322s)
+[2020.04.25-20.51.37:648][557]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.51.37:648][557]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2020.04.25-20.51.37:648][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_1_testmap.testmap (0.006486s)
+[2020.04.25-20.51.37:679][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.25-20.51.37:705][557]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.51.37:713][557]LogInit: FAudioDevice initialized.
+[2020.04.25-20.51.37:722][557]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.25-20.51.37:724][557]LogWorld: Bringing World /Game/Maps/UEDPIE_1_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.51.37
+[2020.04.25-20.51.37:725][557]LogWorld: Bringing up level for play took: 0.002565
+[2020.04.25-20.51.37:725][557]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.25-20.51.37:731][557]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.04.25-20.51.37:731][557]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:731][557]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.04.25-20.51.37:731][557]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:731][557]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.04.25-20.51.37:731][557]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.04.25-20.51.37:732][557]LogInit: WinSock: I am DESKTOP-8D7675O (112.187.200.219:0)
+[2020.04.25-20.51.37:732][557]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.04.25-20.51.37:732][557]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.51.37:732][557]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.04.25-20.51.37:732][557]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.51.37:732][557]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.51.37:732][557]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.51.37:736][557]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.51.37:736][557]PIE: /Game/Maps/UEDPIE_1_testmap在编辑器中运行的起始时间-0.289
+[2020.04.25-20.51.37:740][557]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.51.37:745][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.51.37:745][557]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.51.37:745][557]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:745][557]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.04.25-20.51.37:745][557]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.51.37:745][557]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.51.37:746][557]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.51.37:746][557]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.51.37:747][557]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间-0.278
+[2020.04.25-20.51.37:752][557]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.51.37:756][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.51.37:757][557]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.51.37:757][557]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:757][557]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.04.25-20.51.37:757][557]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.51.37:757][557]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.51.37:757][557]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.51.37:757][557]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.51.37:759][557]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间-0.266
+[2020.04.25-20.51.37:763][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.51.37:763][557]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51357
+[2020.04.25-20.51.37:763][557]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 058105102116223152002108134078187083033189219226214227158083
+[2020.04.25-20.51.37:763][557]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51358
+[2020.04.25-20.51.37:763][557]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 017232044178079152125209129175167200123057002123132044132223
+[2020.04.25-20.51.37:767][557]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 058105102116223152002108134078187083033189219226214227158083
+[2020.04.25-20.51.37:768][557]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 017232044178079152125209129175167200123057002123132044132223
+[2020.04.25-20.51.37:816][558]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51357
+[2020.04.25-20.51.37:816][558]LogHandshake: SendChallengeAck. InCookie: 058105102116223152002108134078187083033189219226214227158083
+[2020.04.25-20.51.37:816][558]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51357
+[2020.04.25-20.51.37:817][558]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.51.37:817][558]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:51:37, [UNetConnection] RemoteAddr: 127.0.0.1:51357, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:817][558]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51357, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:817][558]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51358
+[2020.04.25-20.51.37:817][558]LogHandshake: SendChallengeAck. InCookie: 017232044178079152125209129175167200123057002123132044132223
+[2020.04.25-20.51.37:817][558]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51358
+[2020.04.25-20.51.37:818][558]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.51.37:818][558]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:51:37, [UNetConnection] RemoteAddr: 127.0.0.1:51358, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:818][558]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51358, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:819][558]LogNetVersion: SMU_2ST 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1768185392)
+[2020.04.25-20.51.37:819][558]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:820][558]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.51.37:827][559]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.51.37:827][559]LogNet: Remote platform little endian=1
+[2020.04.25-20.51.37:827][559]LogNet: This platform little endian=1
+[2020.04.25-20.51.37:827][559]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.51.37:827][559]LogNet: Remote platform little endian=1
+[2020.04.25-20.51.37:827][559]LogNet: This platform little endian=1
+[2020.04.25-20.51.37:828][559]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.04.25-20.51.37:830][559]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.04.25-20.51.37:836][560]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83 userId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83 platform: NULL
+[2020.04.25-20.51.37:836][560]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D userId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D platform: NULL
+[2020.04.25-20.51.37:837][560]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.51.37:837][560]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.51.37:837][560]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2020.04.25-20.51.37:837][560]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.51.37:870][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.25-20.51.37:878][560]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.51.37:878][560]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:881][560]LogWorld: Bringing World /Game/Maps/UEDPIE_2_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.51.37
+[2020.04.25-20.51.37:882][560]LogWorld: Bringing up level for play took: 0.003061
+[2020.04.25-20.51.37:882][560]LogLoad: Took 0.044827 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.51.37:882][560]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.51.37:882][560]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.51.37:882][560]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2020.04.25-20.51.37:882][560]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.51.37:927][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.25-20.51.37:933][560]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.51.37:933][560]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.51.37:935][560]LogWorld: Bringing World /Game/Maps/UEDPIE_3_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.51.37
+[2020.04.25-20.51.37:935][560]LogWorld: Bringing up level for play took: 0.001968
+[2020.04.25-20.51.37:936][560]LogLoad: Took 0.053442 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.51.37:945][561]LogNet: Client netspeed is 10000
+[2020.04.25-20.51.37:945][561]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83?SplitscreenCount=1
+[2020.04.25-20.51.37:946][561]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.37:949][561]LogNet: Join succeeded: DESKTOP-8D7675O-27A9
+[2020.04.25-20.51.37:949][561]LogNet: Client netspeed is 10000
+[2020.04.25-20.51.37:949][561]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D?SplitscreenCount=1
+[2020.04.25-20.51.37:949][561]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.37:951][561]LogNet: Join succeeded: DESKTOP-8D7675O-8A4D
+[2020.04.25-20.51.37:960][562]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.25-20.51.37:993][563]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.37:994][563]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.37:994][563]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.38:053][567]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.38:054][567]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.38:055][567]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.51.41:225][925]LogBlueprintUserMessages: [Ghost_BP_2] Server: Hello
+[2020.04.25-20.52.06:065][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.52.06:065][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.52.06:065][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_testmap
+[2020.04.25-20.52.06:092][791]LogSlate: Window 'SMU_2ST 游戏预览 Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.52.06:094][791]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.52.06:103][791]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.04.25-20.52.06:103][791]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.04.25-20.52.06:103][791]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D, Channels: 17, Time: 2020.04.25-20.52.06
+[2020.04.25-20.52.06:103][791]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D
+[2020.04.25-20.52.06:103][791]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.04.25-20.52.06:104][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_testmap
+[2020.04.25-20.52.06:104][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.52.06:129][791]LogSlate: Window 'SMU_2ST 游戏预览 Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.52.06:130][791]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.52.06:138][791]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.04.25-20.52.06:138][791]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.04.25-20.52.06:138][791]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83, Channels: 17, Time: 2020.04.25-20.52.06
+[2020.04.25-20.52.06:138][791]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83
+[2020.04.25-20.52.06:138][791]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.04.25-20.52.06:138][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.52.06:139][791]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.04.25-20.52.06:139][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.52.06:139][791]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.52.06:146][791]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.04.25-20.52.06:146][791]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.04.25-20.52.06:146][791]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51358, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D
+[2020.04.25-20.52.06:146][791]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51358, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D, Channels: 17, Time: 2020.04.25-20.52.06
+[2020.04.25-20.52.06:146][791]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51358, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8A4DE9224968CAE735B7D3A5B9550E0D
+[2020.04.25-20.52.06:147][791]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51357, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83
+[2020.04.25-20.52.06:147][791]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51357, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83, Channels: 17, Time: 2020.04.25-20.52.06
+[2020.04.25-20.52.06:147][791]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51357, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-27A97DB14357A727ADFBD684F726FE83
+[2020.04.25-20.52.06:147][791]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.04.25-20.52.06:147][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-20.52.06:147][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.52.06:182][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.52.06:187][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.25-20.52.06:201][792]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.25-20.52.06:201][792]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.25-20.52.06:201][792]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.25-20.52.08:970][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.52.20:714][519]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Ghost01/Ghost01_BluePrint/Ghost_BP.Ghost_BP
+[2020.04.25-20.52.20:929][519]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.25-20.52.21:759][519]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.25-20.52.21:848][520]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.25-20.52.36:118][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/F-character.F-character
+[2020.04.25-20.53.05:814][704]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.25-20.53.06:058][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.25-20.53.17:052][887]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.25-20.53.17:284][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.04.25-20.53.18:204][988]LogSlate: Window 'Ghost_BP' being destroyed
+[2020.04.25-20.53.18:208][988]LogSlate: Window 'Ghost_BP' being destroyed
+[2020.04.25-20.53.18:238][988]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.20:101][202]LogTemp: Repeating last play command: 选中的视口
+[2020.04.25-20.53.20:129][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.20:129][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-20.53.20:129][202]PIE: New page: PIE会话：testmap（2020年4月26日 下午2:53:20）
+[2020.04.25-20.53.20:129][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.20:134][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004922s)
+[2020.04.25-20.53.20:135][202]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.20:135][202]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2020.04.25-20.53.20:135][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_1_testmap.testmap (0.005929s)
+[2020.04.25-20.53.20:172][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.25-20.53.20:198][202]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.53.20:206][202]LogInit: FAudioDevice initialized.
+[2020.04.25-20.53.20:210][202]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.25-20.53.20:212][202]LogWorld: Bringing World /Game/Maps/UEDPIE_1_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.20
+[2020.04.25-20.53.20:212][202]LogWorld: Bringing up level for play took: 0.002214
+[2020.04.25-20.53.20:212][202]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.04.25-20.53.20:214][202]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:214][202]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.04.25-20.53.20:214][202]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:214][202]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.04.25-20.53.20:214][202]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.04.25-20.53.20:214][202]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.04.25-20.53.20:214][202]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.20:214][202]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2020.04.25-20.53.20:214][202]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.20:214][202]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.20:214][202]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.20:218][202]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.20:218][202]PIE: /Game/Maps/UEDPIE_1_testmap在编辑器中运行的起始时间0.193
+[2020.04.25-20.53.20:222][202]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.20:227][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.20:227][202]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.20:227][202]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:227][202]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.04.25-20.53.20:227][202]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.20:228][202]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.20:228][202]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.20:228][202]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.20:229][202]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间0.204
+[2020.04.25-20.53.20:234][202]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.20:239][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.20:239][202]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.20:239][202]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:239][202]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.04.25-20.53.20:239][202]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.20:239][202]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.20:240][202]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.20:240][202]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.20:242][202]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间0.217
+[2020.04.25-20.53.20:246][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.20:246][202]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51325
+[2020.04.25-20.53.20:246][202]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 175006178068090224182123044233188220148120067167181254185045
+[2020.04.25-20.53.20:246][202]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51326
+[2020.04.25-20.53.20:246][202]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 237017125115030241235076177247048122112170198242003248158217
+[2020.04.25-20.53.20:247][202]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 175006178068090224182123044233188220148120067167181254185045
+[2020.04.25-20.53.20:248][202]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 237017125115030241235076177247048122112170198242003248158217
+[2020.04.25-20.53.20:282][203]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51325
+[2020.04.25-20.53.20:282][203]LogHandshake: SendChallengeAck. InCookie: 175006178068090224182123044233188220148120067167181254185045
+[2020.04.25-20.53.20:282][203]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51325
+[2020.04.25-20.53.20:283][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.20:283][203]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:20, [UNetConnection] RemoteAddr: 127.0.0.1:51325, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:283][203]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51325, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:283][203]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51326
+[2020.04.25-20.53.20:283][203]LogHandshake: SendChallengeAck. InCookie: 237017125115030241235076177247048122112170198242003248158217
+[2020.04.25-20.53.20:283][203]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51326
+[2020.04.25-20.53.20:283][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.20:283][203]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:20, [UNetConnection] RemoteAddr: 127.0.0.1:51326, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:283][203]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51326, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:285][203]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:285][203]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.20:292][204]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.20:292][204]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.20:292][204]LogNet: This platform little endian=1
+[2020.04.25-20.53.20:292][204]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.20:292][204]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.20:292][204]LogNet: This platform little endian=1
+[2020.04.25-20.53.20:293][204]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.25-20.53.20:294][204]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.25-20.53.20:300][205]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9 userId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9 platform: NULL
+[2020.04.25-20.53.20:300][205]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923 userId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923 platform: NULL
+[2020.04.25-20.53.20:301][205]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.20:301][205]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.20:301][205]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2020.04.25-20.53.20:301][205]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.20:336][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.25-20.53.20:342][205]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.20:342][205]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:344][205]LogWorld: Bringing World /Game/Maps/UEDPIE_2_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.20
+[2020.04.25-20.53.20:344][205]LogWorld: Bringing up level for play took: 0.001843
+[2020.04.25-20.53.20:345][205]LogLoad: Took 0.043419 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.20:345][205]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.20:345][205]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.20:345][205]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2020.04.25-20.53.20:345][205]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.20:390][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.25-20.53.20:397][205]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.20:397][205]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.20:399][205]LogWorld: Bringing World /Game/Maps/UEDPIE_3_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.20
+[2020.04.25-20.53.20:399][205]LogWorld: Bringing up level for play took: 0.001903
+[2020.04.25-20.53.20:400][205]LogLoad: Took 0.054169 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.20:409][206]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.20:409][206]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9?SplitscreenCount=1
+[2020.04.25-20.53.20:410][206]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:412][206]LogNet: Join succeeded: DESKTOP-8D7675O-9A88
+[2020.04.25-20.53.20:412][206]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.20:412][206]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923?SplitscreenCount=1
+[2020.04.25-20.53.20:413][206]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:415][206]LogNet: Join succeeded: DESKTOP-8D7675O-EA1E
+[2020.04.25-20.53.20:452][209]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:493][212]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:501][213]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:511][214]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:511][214]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.20:520][215]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.30:249][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.30:249][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.30:250][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_testmap
+[2020.04.25-20.53.30:274][351]LogSlate: Window 'SMU_2ST 游戏预览 Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.30:276][351]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.30:279][351]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2020.04.25-20.53.30:279][351]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2020.04.25-20.53.30:279][351]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923, Channels: 17, Time: 2020.04.25-20.53.30
+[2020.04.25-20.53.30:279][351]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923
+[2020.04.25-20.53.30:279][351]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2020.04.25-20.53.30:280][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_testmap
+[2020.04.25-20.53.30:280][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.30:304][351]LogSlate: Window 'SMU_2ST 游戏预览 Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.30:306][351]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.30:313][351]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2020.04.25-20.53.30:313][351]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2020.04.25-20.53.30:313][351]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9, Channels: 17, Time: 2020.04.25-20.53.30
+[2020.04.25-20.53.30:313][351]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9
+[2020.04.25-20.53.30:314][351]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2020.04.25-20.53.30:314][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.30:314][351]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.04.25-20.53.30:315][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.30:315][351]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.30:322][351]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2020.04.25-20.53.30:322][351]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2020.04.25-20.53.30:322][351]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51325, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9
+[2020.04.25-20.53.30:322][351]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51325, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9, Channels: 17, Time: 2020.04.25-20.53.30
+[2020.04.25-20.53.30:322][351]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51325, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9A88B59B46E23A2FF046379B6C2B43F9
+[2020.04.25-20.53.30:322][351]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51326, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923
+[2020.04.25-20.53.30:322][351]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51326, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923, Channels: 17, Time: 2020.04.25-20.53.30
+[2020.04.25-20.53.30:322][351]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51326, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-EA1ED9B246DE7F855332AF8A62FB1923
+[2020.04.25-20.53.30:323][351]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2020.04.25-20.53.30:323][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-20.53.30:323][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.30:363][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.30:369][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.25-20.53.30:385][352]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.25-20.53.30:385][352]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.25-20.53.30:385][352]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.25-20.53.31:075][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.53.36:037][ 18]BlueprintLog: New page: 编译F-character
+[2020.04.25-20.53.36:298][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.25-20.53.37:312][128]LogTemp: Repeating last play command: 选中的视口
+[2020.04.25-20.53.37:340][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.37:340][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-20.53.37:340][128]PIE: New page: PIE会话：testmap（2020年4月26日 下午2:53:37）
+[2020.04.25-20.53.37:340][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.37:345][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005380s)
+[2020.04.25-20.53.37:346][128]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.37:346][128]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2020.04.25-20.53.37:346][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_1_testmap.testmap (0.006492s)
+[2020.04.25-20.53.37:386][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.25-20.53.37:412][128]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.53.37:420][128]LogInit: FAudioDevice initialized.
+[2020.04.25-20.53.37:425][128]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.25-20.53.37:427][128]LogWorld: Bringing World /Game/Maps/UEDPIE_1_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.37
+[2020.04.25-20.53.37:427][128]LogWorld: Bringing up level for play took: 0.002247
+[2020.04.25-20.53.37:428][128]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.25-20.53.37:429][128]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:429][128]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.04.25-20.53.37:429][128]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:429][128]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.04.25-20.53.37:429][128]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.04.25-20.53.37:429][128]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.04.25-20.53.37:429][128]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.37:429][128]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.04.25-20.53.37:429][128]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.37:429][128]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.37:429][128]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.37:433][128]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.37:433][128]PIE: /Game/Maps/UEDPIE_1_testmap在编辑器中运行的起始时间-0.592
+[2020.04.25-20.53.37:437][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.37:441][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.37:442][128]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.37:442][128]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:442][128]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.04.25-20.53.37:442][128]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.37:442][128]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.37:442][128]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.37:442][128]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.37:444][128]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间-0.581
+[2020.04.25-20.53.37:449][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.37:454][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.37:454][128]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.37:454][128]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:454][128]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2020.04.25-20.53.37:454][128]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.37:454][128]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.37:455][128]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.37:455][128]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.37:457][128]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间-0.568
+[2020.04.25-20.53.37:461][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.37:461][128]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51327
+[2020.04.25-20.53.37:461][128]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 131145178016161080196004038032103045102202128168042158135062
+[2020.04.25-20.53.37:461][128]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51328
+[2020.04.25-20.53.37:461][128]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 086104236246152248137099215035080211160118071068019105130249
+[2020.04.25-20.53.37:462][128]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 131145178016161080196004038032103045102202128168042158135062
+[2020.04.25-20.53.37:462][128]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 086104236246152248137099215035080211160118071068019105130249
+[2020.04.25-20.53.37:503][129]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51327
+[2020.04.25-20.53.37:503][129]LogHandshake: SendChallengeAck. InCookie: 131145178016161080196004038032103045102202128168042158135062
+[2020.04.25-20.53.37:504][129]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51327
+[2020.04.25-20.53.37:504][129]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.37:504][129]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:37, [UNetConnection] RemoteAddr: 127.0.0.1:51327, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:504][129]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51327, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:504][129]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51328
+[2020.04.25-20.53.37:504][129]LogHandshake: SendChallengeAck. InCookie: 086104236246152248137099215035080211160118071068019105130249
+[2020.04.25-20.53.37:504][129]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51328
+[2020.04.25-20.53.37:504][129]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.37:505][129]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:37, [UNetConnection] RemoteAddr: 127.0.0.1:51328, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:505][129]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51328, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:506][129]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:506][129]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.37:512][130]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.37:512][130]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.37:512][130]LogNet: This platform little endian=1
+[2020.04.25-20.53.37:512][130]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.37:512][130]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.37:512][130]LogNet: This platform little endian=1
+[2020.04.25-20.53.37:513][130]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.25-20.53.37:514][130]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.25-20.53.37:521][131]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396 userId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396 platform: NULL
+[2020.04.25-20.53.37:521][131]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378 userId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378 platform: NULL
+[2020.04.25-20.53.37:522][131]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.37:522][131]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.37:522][131]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2020.04.25-20.53.37:522][131]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.37:560][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.04.25-20.53.37:566][131]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.37:566][131]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:568][131]LogWorld: Bringing World /Game/Maps/UEDPIE_2_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.37
+[2020.04.25-20.53.37:568][131]LogWorld: Bringing up level for play took: 0.001813
+[2020.04.25-20.53.37:569][131]LogLoad: Took 0.046511 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.37:569][131]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.37:569][131]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.37:569][131]LogWorld: BeginTearingDown for /Temp/Untitled_7
+[2020.04.25-20.53.37:569][131]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.37:613][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.25-20.53.37:620][131]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.37:620][131]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.37:622][131]LogWorld: Bringing World /Game/Maps/UEDPIE_3_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.37
+[2020.04.25-20.53.37:622][131]LogWorld: Bringing up level for play took: 0.001843
+[2020.04.25-20.53.37:622][131]LogLoad: Took 0.053161 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.37:633][132]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.37:633][132]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396?SplitscreenCount=1
+[2020.04.25-20.53.37:633][132]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:636][132]LogNet: Join succeeded: DESKTOP-8D7675O-975C
+[2020.04.25-20.53.37:636][132]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.37:636][132]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378?SplitscreenCount=1
+[2020.04.25-20.53.37:636][132]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:639][132]LogNet: Join succeeded: DESKTOP-8D7675O-8781
+[2020.04.25-20.53.37:665][134]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:673][135]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:728][139]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:730][139]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:730][139]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.37:750][141]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.40:723][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.40:723][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.40:723][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_testmap
+[2020.04.25-20.53.40:748][484]LogSlate: Window 'SMU_2ST 游戏预览 Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.40:750][484]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.40:753][484]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2020.04.25-20.53.40:753][484]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2020.04.25-20.53.40:753][484]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378, Channels: 16, Time: 2020.04.25-20.53.40
+[2020.04.25-20.53.40:753][484]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378
+[2020.04.25-20.53.40:753][484]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2020.04.25-20.53.40:753][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_testmap
+[2020.04.25-20.53.40:754][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.40:778][484]LogSlate: Window 'SMU_2ST 游戏预览 Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.40:780][484]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.40:787][484]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2020.04.25-20.53.40:787][484]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2020.04.25-20.53.40:787][484]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396, Channels: 16, Time: 2020.04.25-20.53.40
+[2020.04.25-20.53.40:787][484]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396
+[2020.04.25-20.53.40:788][484]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2020.04.25-20.53.40:788][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.40:788][484]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.04.25-20.53.40:789][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.40:789][484]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.40:796][484]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2020.04.25-20.53.40:796][484]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2020.04.25-20.53.40:796][484]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51328, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378
+[2020.04.25-20.53.40:796][484]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51328, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378, Channels: 16, Time: 2020.04.25-20.53.40
+[2020.04.25-20.53.40:796][484]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51328, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-8781BBA54DF7FEC513269D8C0BADA378
+[2020.04.25-20.53.40:796][484]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51327, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396
+[2020.04.25-20.53.40:796][484]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51327, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396, Channels: 16, Time: 2020.04.25-20.53.40
+[2020.04.25-20.53.40:796][484]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51327, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-975C2C64403528D5CB43DABC12655396
+[2020.04.25-20.53.40:797][484]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2020.04.25-20.53.40:797][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-20.53.40:797][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.40:840][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.40:846][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.04.25-20.53.40:861][485]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.25-20.53.40:861][485]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.25-20.53.40:861][485]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.25-20.53.41:439][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.53.42:764][709]LogEditorTransaction: Undo 修改数字引脚值
+[2020.04.25-20.53.48:991][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Ghost01/Ghost01_BluePrint/Ghost_BP.Ghost_BP
+[2020.04.25-20.53.52:486][692]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.25-20.53.52:710][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.25-20.53.54:605][839]LogTemp: Repeating last play command: 选中的视口
+[2020.04.25-20.53.54:634][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.54:634][839]BlueprintLog: New page: 运行前自动重新编译
+[2020.04.25-20.53.54:648][839]LogPlayLevel: [PlayLevel] Compiling F-character before play...
+[2020.04.25-20.53.54:648][839]LogPlayLevel: [PlayLevel]   Compiling F-character_Child01 as a dependent...
+[2020.04.25-20.53.54:929][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.25-20.53.54:930][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (2 blueprints)
+[2020.04.25-20.53.54:930][839]PIE: New page: PIE会话：testmap（2020年4月26日 下午2:53:54）
+[2020.04.25-20.53.54:930][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.54:935][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005044s)
+[2020.04.25-20.53.54:936][839]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.54:936][839]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2020.04.25-20.53.54:936][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_1_testmap.testmap (0.005986s)
+[2020.04.25-20.53.54:972][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.25-20.53.54:998][839]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.53.55:005][839]LogInit: FAudioDevice initialized.
+[2020.04.25-20.53.55:014][839]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.25-20.53.55:016][839]LogWorld: Bringing World /Game/Maps/UEDPIE_1_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.55
+[2020.04.25-20.53.55:017][839]LogWorld: Bringing up level for play took: 0.002231
+[2020.04.25-20.53.55:017][839]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.25-20.53.55:019][839]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:019][839]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2020.04.25-20.53.55:019][839]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:019][839]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.04.25-20.53.55:019][839]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.04.25-20.53.55:019][839]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.04.25-20.53.55:019][839]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.55:019][839]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2020.04.25-20.53.55:019][839]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.55:019][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.53.55:019][839]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.55:023][839]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.53.55:023][839]PIE: /Game/Maps/UEDPIE_1_testmap在编辑器中运行的起始时间0.998
+[2020.04.25-20.53.55:027][839]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.55:032][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.55:032][839]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.55:032][839]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:032][839]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2020.04.25-20.53.55:032][839]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.55:032][839]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.55:032][839]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.55:032][839]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.55:035][839]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间1.01
+[2020.04.25-20.53.55:039][839]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.53.55:044][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.55:044][839]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.53.55:044][839]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:045][839]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2020.04.25-20.53.55:045][839]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.53.55:045][839]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.53.55:045][839]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.55:045][839]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.53.55:047][839]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间1.022
+[2020.04.25-20.53.55:051][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.55:051][839]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57804
+[2020.04.25-20.53.55:051][839]LogHandshake: SendConnectChallenge. Timestamp: 0.008858, Cookie: 012093114001247177220232006042190074063204159040083107152033
+[2020.04.25-20.53.55:051][839]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57805
+[2020.04.25-20.53.55:051][839]LogHandshake: SendConnectChallenge. Timestamp: 0.008858, Cookie: 053150202089092087244178157069078157246115079088233214234172
+[2020.04.25-20.53.55:052][839]LogHandshake: SendChallengeResponse. Timestamp: 0.008858, Cookie: 012093114001247177220232006042190074063204159040083107152033
+[2020.04.25-20.53.55:053][839]LogHandshake: SendChallengeResponse. Timestamp: 0.008858, Cookie: 053150202089092087244178157069078157246115079088233214234172
+[2020.04.25-20.53.55:116][840]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57804
+[2020.04.25-20.53.55:116][840]LogHandshake: SendChallengeAck. InCookie: 012093114001247177220232006042190074063204159040083107152033
+[2020.04.25-20.53.55:116][840]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57804
+[2020.04.25-20.53.55:116][840]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.55:117][840]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:55, [UNetConnection] RemoteAddr: 127.0.0.1:57804, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:117][840]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57804, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:117][840]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57805
+[2020.04.25-20.53.55:117][840]LogHandshake: SendChallengeAck. InCookie: 053150202089092087244178157069078157246115079088233214234172
+[2020.04.25-20.53.55:117][840]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57805
+[2020.04.25-20.53.55:117][840]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.53.55:117][840]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:53:55, [UNetConnection] RemoteAddr: 127.0.0.1:57805, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:117][840]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57805, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:118][840]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:119][840]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.53.55:134][841]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.55:134][841]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.55:134][841]LogNet: This platform little endian=1
+[2020.04.25-20.53.55:134][841]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.53.55:134][841]LogNet: Remote platform little endian=1
+[2020.04.25-20.53.55:134][841]LogNet: This platform little endian=1
+[2020.04.25-20.53.55:135][841]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.25-20.53.55:136][841]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.25-20.53.55:145][842]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F userId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F platform: NULL
+[2020.04.25-20.53.55:145][842]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517 userId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517 platform: NULL
+[2020.04.25-20.53.55:146][842]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.55:146][842]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.55:147][842]LogWorld: BeginTearingDown for /Temp/Untitled_8
+[2020.04.25-20.53.55:147][842]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.55:183][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.25-20.53.55:190][842]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.55:190][842]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:192][842]LogWorld: Bringing World /Game/Maps/UEDPIE_2_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.55
+[2020.04.25-20.53.55:192][842]LogWorld: Bringing up level for play took: 0.001816
+[2020.04.25-20.53.55:192][842]LogLoad: Took 0.045447 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.55:193][842]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.53.55:193][842]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.53.55:193][842]LogWorld: BeginTearingDown for /Temp/Untitled_9
+[2020.04.25-20.53.55:193][842]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.55:237][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.04.25-20.53.55:244][842]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.53.55:244][842]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.53.55:246][842]LogWorld: Bringing World /Game/Maps/UEDPIE_3_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.53.55
+[2020.04.25-20.53.55:246][842]LogWorld: Bringing up level for play took: 0.001870
+[2020.04.25-20.53.55:246][842]LogLoad: Took 0.053712 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.53.55:260][843]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.55:260][843]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F?SplitscreenCount=1
+[2020.04.25-20.53.55:261][843]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:264][843]LogNet: Join succeeded: DESKTOP-8D7675O-9C6F
+[2020.04.25-20.53.55:264][843]LogNet: Client netspeed is 10000
+[2020.04.25-20.53.55:264][843]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517?SplitscreenCount=1
+[2020.04.25-20.53.55:264][843]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:266][843]LogNet: Join succeeded: DESKTOP-8D7675O-E24A
+[2020.04.25-20.53.55:337][847]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:338][847]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:338][847]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:350][848]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:363][849]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.55:364][849]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.53.59:688][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.59:688][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.59:688][209]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_testmap
+[2020.04.25-20.53.59:714][209]LogSlate: Window 'SMU_2ST 游戏预览 Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.59:715][209]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.59:721][209]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2020.04.25-20.53.59:721][209]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2020.04.25-20.53.59:721][209]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517, Channels: 16, Time: 2020.04.25-20.53.59
+[2020.04.25-20.53.59:721][209]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517
+[2020.04.25-20.53.59:722][209]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2020.04.25-20.53.59:722][209]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_testmap
+[2020.04.25-20.53.59:722][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.59:747][209]LogSlate: Window 'SMU_2ST 游戏预览 Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.53.59:748][209]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.59:756][209]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2020.04.25-20.53.59:756][209]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2020.04.25-20.53.59:756][209]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F, Channels: 16, Time: 2020.04.25-20.53.59
+[2020.04.25-20.53.59:756][209]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F
+[2020.04.25-20.53.59:756][209]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2020.04.25-20.53.59:757][209]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.53.59:757][209]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.04.25-20.53.59:757][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.59:757][209]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.53.59:771][209]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2020.04.25-20.53.59:771][209]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2020.04.25-20.53.59:771][209]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57805, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517
+[2020.04.25-20.53.59:771][209]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57805, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517, Channels: 16, Time: 2020.04.25-20.53.59
+[2020.04.25-20.53.59:771][209]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57805, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-E24A40DA459DF7474B61929BA9FF2517
+[2020.04.25-20.53.59:771][209]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57804, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F
+[2020.04.25-20.53.59:771][209]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57804, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F, Channels: 16, Time: 2020.04.25-20.53.59
+[2020.04.25-20.53.59:771][209]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57804, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-9C6F894747EB5E936B4885B14FCC500F
+[2020.04.25-20.53.59:772][209]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2020.04.25-20.53.59:772][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-20.53.59:772][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.53.59:815][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.53.59:821][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.04.25-20.53.59:864][210]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.25-20.53.59:864][210]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.25-20.53.59:864][210]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.25-20.54.00:178][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.54.03:930][662]LogTemp: Repeating last play command: 选中的视口
+[2020.04.25-20.54.03:957][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.54.03:957][662]BlueprintLog: New page: 运行前自动重新编译
+[2020.04.25-20.54.03:960][662]LogPlayLevel: [PlayLevel] Compiling Ghost_BP before play...
+[2020.04.25-20.54.04:205][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.25-20.54.04:206][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2020.04.25-20.54.04:206][662]PIE: New page: PIE会话：testmap（2020年4月26日 下午2:54:04）
+[2020.04.25-20.54.04:206][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.54.04:211][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005064s)
+[2020.04.25-20.54.04:212][662]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.54.04:212][662]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2020.04.25-20.54.04:212][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_1_testmap.testmap (0.006171s)
+[2020.04.25-20.54.04:249][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.04.25-20.54.04:277][662]LogInit: XAudio2 using '扬声器 (2- HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.25-20.54.04:285][662]LogInit: FAudioDevice initialized.
+[2020.04.25-20.54.04:293][662]LogLoad: Game class is 'GameMode-play_C'
+[2020.04.25-20.54.04:294][662]LogWorld: Bringing World /Game/Maps/UEDPIE_1_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.54.04
+[2020.04.25-20.54.04:295][662]LogWorld: Bringing up level for play took: 0.002222
+[2020.04.25-20.54.04:295][662]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.25-20.54.04:296][662]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:296][662]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2020.04.25-20.54.04:296][662]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:297][662]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.04.25-20.54.04:297][662]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.04.25-20.54.04:297][662]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.04.25-20.54.04:297][662]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.54.04:297][662]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2020.04.25-20.54.04:297][662]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.54.04:297][662]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.25-20.54.04:297][662]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.54.04:301][662]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.25-20.54.04:301][662]PIE: /Game/Maps/UEDPIE_1_testmap在编辑器中运行的起始时间0.276
+[2020.04.25-20.54.04:305][662]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.54.04:309][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.04:309][662]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.54.04:309][662]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:309][662]LogTemp: Display: ParseSettings for IpNetDriver_13
+[2020.04.25-20.54.04:309][662]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.54.04:310][662]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.54.04:310][662]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.54.04:310][662]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.54.04:312][662]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间0.287
+[2020.04.25-20.54.04:317][662]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.25-20.54.04:322][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.04:322][662]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2020.04.25-20.54.04:322][662]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:322][662]LogTemp: Display: ParseSettings for IpNetDriver_14
+[2020.04.25-20.54.04:322][662]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.25-20.54.04:322][662]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.04.25-20.54.04:323][662]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.54.04:323][662]LogNet: Game client on port 17777, rate 10000
+[2020.04.25-20.54.04:325][662]PIE: /Engine/Maps/Entry在编辑器中运行的起始时间0.3
+[2020.04.25-20.54.04:329][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.54.04:329][662]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57806
+[2020.04.25-20.54.04:330][662]LogHandshake: SendConnectChallenge. Timestamp: 0.008670, Cookie: 077143015203245173226188152183137206170140120028241103163057
+[2020.04.25-20.54.04:330][662]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57807
+[2020.04.25-20.54.04:330][662]LogHandshake: SendConnectChallenge. Timestamp: 0.008670, Cookie: 126053170112004096164206255018026145218188169223058145108214
+[2020.04.25-20.54.04:331][662]LogHandshake: SendChallengeResponse. Timestamp: 0.008670, Cookie: 077143015203245173226188152183137206170140120028241103163057
+[2020.04.25-20.54.04:331][662]LogHandshake: SendChallengeResponse. Timestamp: 0.008670, Cookie: 126053170112004096164206255018026145218188169223058145108214
+[2020.04.25-20.54.04:392][663]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57806
+[2020.04.25-20.54.04:392][663]LogHandshake: SendChallengeAck. InCookie: 077143015203245173226188152183137206170140120028241103163057
+[2020.04.25-20.54.04:392][663]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57806
+[2020.04.25-20.54.04:393][663]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.54.04:393][663]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:54:04, [UNetConnection] RemoteAddr: 127.0.0.1:57806, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:393][663]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57806, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:393][663]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57807
+[2020.04.25-20.54.04:393][663]LogHandshake: SendChallengeAck. InCookie: 126053170112004096164206255018026145218188169223058145108214
+[2020.04.25-20.54.04:393][663]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57807
+[2020.04.25-20.54.04:393][663]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.25-20.54.04:393][663]LogNet: NotifyAcceptedConnection: Name: testmap, TimeStamp: 04/26/20 05:54:04, [UNetConnection] RemoteAddr: 127.0.0.1:57807, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:393][663]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57807, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:395][663]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:395][663]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: PendingNetDriver IpNetDriver_14, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.25-20.54.04:409][664]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.54.04:409][664]LogNet: Remote platform little endian=1
+[2020.04.25-20.54.04:409][664]LogNet: This platform little endian=1
+[2020.04.25-20.54.04:409][664]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_testmap.testmap: Accepted
+[2020.04.25-20.54.04:409][664]LogNet: Remote platform little endian=1
+[2020.04.25-20.54.04:409][664]LogNet: This platform little endian=1
+[2020.04.25-20.54.04:410][664]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.04.25-20.54.04:411][664]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.25-20.54.04:420][665]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1 userId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1 platform: NULL
+[2020.04.25-20.54.04:420][665]LogNet: Login request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1 userId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1 platform: NULL
+[2020.04.25-20.54.04:421][665]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.54.04:421][665]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.54.04:421][665]LogWorld: BeginTearingDown for /Temp/Untitled_10
+[2020.04.25-20.54.04:421][665]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.54.04:458][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.25-20.54.04:464][665]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.54.04:465][665]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:467][665]LogWorld: Bringing World /Game/Maps/UEDPIE_2_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.54.04
+[2020.04.25-20.54.04:467][665]LogWorld: Bringing up level for play took: 0.002235
+[2020.04.25-20.54.04:468][665]LogLoad: Took 0.046489 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.54.04:468][665]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_testmap, Game: /Game/Maps/GameMode-play.GameMode-play_C)
+[2020.04.25-20.54.04:468][665]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_testmap?game=/Game/Maps/GameMode-play.GameMode-play_C
+[2020.04.25-20.54.04:468][665]LogWorld: BeginTearingDown for /Temp/Untitled_11
+[2020.04.25-20.54.04:468][665]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.54.04:516][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.25-20.54.04:522][665]LogAIModule: Creating AISystem for world testmap
+[2020.04.25-20.54.04:522][665]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.25-20.54.04:524][665]LogWorld: Bringing World /Game/Maps/UEDPIE_3_testmap.testmap up for play (max tick rate 0) at 2020.04.26-05.54.04
+[2020.04.25-20.54.04:525][665]LogWorld: Bringing up level for play took: 0.002189
+[2020.04.25-20.54.04:525][665]LogLoad: Took 0.056998 seconds to LoadMap(/Game/Maps/UEDPIE_1_testmap)
+[2020.04.25-20.54.04:539][666]LogNet: Client netspeed is 10000
+[2020.04.25-20.54.04:539][666]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1?SplitscreenCount=1
+[2020.04.25-20.54.04:539][666]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:542][666]LogNet: Join succeeded: DESKTOP-8D7675O-8B77
+[2020.04.25-20.54.04:542][666]LogNet: Client netspeed is 10000
+[2020.04.25-20.54.04:542][666]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1?SplitscreenCount=1
+[2020.04.25-20.54.04:542][666]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:544][666]LogNet: Join succeeded: DESKTOP-8D7675O-1546
+[2020.04.25-20.54.04:603][669]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:604][669]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:629][671]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:630][671]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:643][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.04:644][672]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.04.25-20.54.08:841][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.54.08:842][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.08:842][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_testmap
+[2020.04.25-20.54.08:867][ 22]LogSlate: Window 'SMU_2ST 游戏预览 Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.54.08:869][ 22]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.54.08:875][ 22]LogNet: World NetDriver shutdown IpNetDriver_14 [GameNetDriver]
+[2020.04.25-20.54.08:875][ 22]LogNet: DestroyNamedNetDriver IpNetDriver_14 [GameNetDriver]
+[2020.04.25-20.54.08:875][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_14, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1, Channels: 16, Time: 2020.04.25-20.54.08
+[2020.04.25-20.54.08:875][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_14, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1
+[2020.04.25-20.54.08:875][ 22]LogExit: GameNetDriver IpNetDriver_14 shut down
+[2020.04.25-20.54.08:875][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_testmap
+[2020.04.25-20.54.08:876][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.08:900][ 22]LogSlate: Window 'SMU_2ST 游戏预览 Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.25-20.54.08:901][ 22]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.54.08:909][ 22]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2020.04.25-20.54.08:909][ 22]LogNet: DestroyNamedNetDriver IpNetDriver_13 [GameNetDriver]
+[2020.04.25-20.54.08:909][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1, Channels: 16, Time: 2020.04.25-20.54.08
+[2020.04.25-20.54.08:909][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1
+[2020.04.25-20.54.08:910][ 22]LogExit: GameNetDriver IpNetDriver_13 shut down
+[2020.04.25-20.54.08:910][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_testmap
+[2020.04.25-20.54.08:910][ 22]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.04.25-20.54.08:910][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.08:911][ 22]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.54.08:924][ 22]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2020.04.25-20.54.08:924][ 22]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2020.04.25-20.54.08:924][ 22]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57807, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1
+[2020.04.25-20.54.08:924][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57807, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1, Channels: 16, Time: 2020.04.25-20.54.08
+[2020.04.25-20.54.08:924][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57807, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-8D7675O-154674584642946C3F10C88B54CC64F1
+[2020.04.25-20.54.08:924][ 22]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57806, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1
+[2020.04.25-20.54.08:925][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57806, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1, Channels: 16, Time: 2020.04.25-20.54.08
+[2020.04.25-20.54.08:925][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57806, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-8D7675O-8B771C654E33D1F53B6DA3A8F4CC90F1
+[2020.04.25-20.54.08:925][ 22]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2020.04.25-20.54.08:925][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-20.54.08:925][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/Maps/testmap.testmap_C' with ClassGeneratedBy '/Game/Maps/testmap.testmap:PersistentLevel.testmap'
+[2020.04.25-20.54.08:967][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-20.54.08:973][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.25-20.54.09:017][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.25-20.54.09:017][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.25-20.54.09:017][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.25-20.54.10:457][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-20.54.24:205][611]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Ghost01/Ghost01_AnimationBP/Ghost01_AnimationBP.Ghost01_AnimationBP
+[2020.04.25-20.54.24:216][611]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.25-20.54.24:359][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.25-20.54.24:363][611]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.25-20.54.24:661][611]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.25-20.54.25:245][611]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.25-20.55.30:464][278]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ma10_Monsterset_02/ms02_01_Pumpkin/Animations/ms02_01_Walk.ms02_01_Walk
+[2020.04.25-20.55.30:474][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.25-20.55.30:505][278]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.25-20.55.31:102][278]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.25-20.55.32:723][421]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-20.55.46:211][759]BlueprintLog: New page: 编译Ghost01_AnimationBP
+[2020.04.25-20.55.46:217][759]LogBlueprint: Warning: [Compiler Ghost01_AnimationBP] Idle walk到TuJin  will never be taken, please connect something to  Can Enter Transition
+[2020.04.25-20.55.46:596][759]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.04.25-20.56.16:986][943]BlueprintLog: New page: 编译Ghost_BP
+[2020.04.25-20.56.17:334][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.04.25-20.56.34:584][596]LogUObjectBase: Warning: Object is not registered
+[2020.04.25-20.56.34:584][596]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.25-20.56.34:876][596]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.293 s
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: 
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: Stack: 
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd2d175279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd2c997fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd2c9a622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd2afa6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd29f54dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd29f0e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd3229d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd3248c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd322e922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd322c5738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd322b9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd5aa74c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd5aa626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd5aa77340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd5aa5edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd74f85c0d USER32.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd74f85602 USER32.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ffd5aa788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ff67fc96980 UE4Editor.exe!UnknownFunction []
+[2020.04.25-20.56.34:876][596]LogOutputDevice: Error: [Callstack] 0x00007ff67fcaa91c UE4Editor.exe!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: [Callstack] 0x00007ff67fcaa9fa UE4Editor.exe!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: [Callstack] 0x00007ff67fcbb92c UE4Editor.exe!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: [Callstack] 0x00007ff67fcbe60e UE4Editor.exe!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: [Callstack] 0x00007ffd75837bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: [Callstack] 0x00007ffd75c4ce51 ntdll.dll!UnknownFunction []
+[2020.04.25-20.56.34:877][596]LogOutputDevice: Error: 
+[2020.04.25-20.56.34:888][596]LogStats:                SubmitErrorReport -  0.000 s
