@@ -1071,3 +1071,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.30-06.28.46:657][233]LogFileHelpers: Saving map 'testmap' took 0.350
 [2020.04.30-06.28.46:661][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost01/Ghost01_BluePrint/Ghost_BP" FILE="E:/NewGame/Content/Ghost01/Ghost01_BluePrint/Ghost_BP.uasset" SILENT=true
 [2020.04.30-06.28.46:762][233]LogSavePackage: Moving 'E:/NewGame/Saved/Ghost_BP968D1D144E7188A1BFC1A7B356ABDD88.tmp' to 'E:/NewGame/Content/Ghost01/Ghost01_BluePrint/Ghost_BP.uasset'
+[2020.04.30-06.29.23:976][820]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TX/FH/GQ.GQ
+[2020.04.30-06.29.36:770][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.29.36:871][579]LogSlate: Window 'GQ' being destroyed
+[2020.04.30-06.29.36:879][579]LogCascade: Quitting Cascade. FXSystem=0x00000181CBC77AC0
+[2020.04.30-06.29.36:935][579]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-06.29.40:628][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-06.29.50:104][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.29.50:314][307]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TX/FH/SS.SS
+[2020.04.30-06.29.52:226][383]LogSlate: Window 'SS' being destroyed
+[2020.04.30-06.29.52:253][383]LogCascade: Quitting Cascade. FXSystem=0x00000181C8F9EE00
+[2020.04.30-06.29.52:315][383]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-06.29.55:663][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-06.29.56:818][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-06.29.59:812][731]LogEditorViewport: Clicking on Actor (LMB): Emitter (SS)
+[2020.04.30-06.30.01:663][816]LogEditorViewport: Clicking on Actor (LMB): Emitter (GQ)
+[2020.04.30-06.30.03:488][898]LogEditorViewport: Clicking on Actor (LMB): Emitter (SS)
+[2020.04.30-06.30.04:775][956]Cmd: DELETE
+[2020.04.30-06.30.04:775][956]Cmd: ACTOR DELETE
+[2020.04.30-06.30.04:778][956]LogEditorActor: Deleted Actor: Emitter
+[2020.04.30-06.30.04:827][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.30-06.30.04:827][956]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.04.30-06.30.15:062][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.30.15:249][568]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TX/FH/GQ.GQ
+[2020.04.30-06.30.17:569][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.30.24:706][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TX/FH/GQ" FILE="E:/NewGame/Content/TX/FH/GQ.uasset" SILENT=true
+[2020.04.30-06.30.24:736][ 16]LogSavePackage: Moving 'E:/NewGame/Saved/GQ57B0B82A4E33D2BC6AC9E6BF6A560FB8.tmp' to 'E:/NewGame/Content/TX/FH/GQ.uasset'
+[2020.04.30-06.30.25:890][ 65]LogSlate: Window 'GQ' being destroyed
+[2020.04.30-06.30.25:914][ 65]LogCascade: Quitting Cascade. FXSystem=0x00000181A36A3880
+[2020.04.30-06.30.25:947][ 65]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-06.30.29:260][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.30.29:467][257]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TX/FH/GQ.GQ
+[2020.04.30-06.30.33:201][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-06.30.33:291][419]LogSlate: Window 'GQ' being destroyed
+[2020.04.30-06.30.33:329][419]LogCascade: Quitting Cascade. FXSystem=0x00000181A2F4A800
+[2020.04.30-06.30.33:388][419]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-06.30.36:462][574]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TX/FH/SS.SS
+[2020.04.30-06.30.38:231][643]LogSlate: Window 'SS' being destroyed
+[2020.04.30-06.31.04:431][920]LogSlate: Window 'SS' being destroyed
+[2020.04.30-06.31.04:463][920]LogCascade: Quitting Cascade. FXSystem=0x00000181C8F9CA00
+[2020.04.30-06.31.04:493][920]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-06.31.06:951][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.30-06.31.07:081][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testmap" FILE="E:/NewGame/Content/Maps/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.30-06.31.07:116][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.30-06.31.07:340][ 62]LogSavePackage: Moving 'E:/NewGame/Saved/testmap1F6A5D2240F2E1CCC0880AB44F0D8FBF.tmp' to 'E:/NewGame/Content/Maps/testmap.umap'
+[2020.04.30-06.31.07:398][ 62]LogFileHelpers: Saving map 'testmap' took 0.317
