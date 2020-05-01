@@ -1163,3 +1163,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-04.54.15:976][845]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
 [2020.05.01-04.54.15:977][845]LogModuleManager: Shutting down and abandoning module XMPP (61)
 [2020.05.01-04.54.16:104][845]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.05.01-04.54.16:185][845]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.05.01-04.54.16:185][845]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.01-04.54.16:186][845]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B95C73A41-458A-7B3D-2C11-6E995EA7F1EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e07dccc54e5eaaa1cf379ab088489db9%7C31f1cf75dce84ca78db89ff1afc9055e%7C74a765a9-9af8-4f30-9a10-dab7c37364eb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.01-04.54.16:214][845]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.05.01-04.54.16:215][845]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.05.01-04.54.16:276][845]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.01-04.54.16:277][845]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.01-04.54.16:281][845]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.01-04.54.16:281][845]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.01-04.54.16:291][845]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.01-04.54.16:292][845]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.01-04.54.16:292][845]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.01-04.54.16:292][845]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.01-04.54.16:293][845]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.01-04.54.16:347][845]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.01-04.54.16:348][845]LogD3D11RHI: Shutdown
+[2020.05.01-04.54.16:348][845]LogD3D11RHI: CleanupD3DDevice
+[2020.05.01-04.54.16:415][845]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.01-04.54.16:415][845]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.01-04.54.16:415][845]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.01-04.54.16:479][845]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.01-04.54.16:487][845]LogExit: Exiting.
+[2020.05.01-04.54.16:519][845]Log file closed, 05/01/20 13:54:16
